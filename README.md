@@ -1,32 +1,39 @@
 # Mexico
 
-Free open public domain football data (football.db) for Mexico / North America
+Free open public domain football data (football.db)
+for Mexico / North America
 
-#### Web Admin App
+
+
+
+## Links
+
+### Web Admin App
 
 Try the `football.db` Web Admin app running on Heroku
 [`footballdb.herokuapp.com/mx`](http://footballdb.herokuapp.com/mx).
 
 
-## Liga MX / Primera_División_de_México
+### Liga MX / Primera División de México
 
 Official Site -> [`www.ligamx.net`](http://www.ligamx.net)
 
-- Teams: 18
+- 18 Teams
 
 
-### Wikipedia
+#### Wikipedia
 
-- [Primera_División_de_México](http://es.wikipedia.org/wiki/Primera_División_de_México)
+- [Primera_División_de_México (es)](http://es.wikipedia.org/wiki/Primera_División_de_México)
 
 
-## Sport Newspapers
+### Sport Newspapers
 
 - [Record](http://www.record.com.mx) (7x week)
 
-## Sport Television
+### Sport Television
 
 - [Televisa Deportes](http://televisadeportes.esmas.com)
+
 
 
 
