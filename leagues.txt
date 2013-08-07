@@ -1,4 +1,3 @@
-
 #############
 # todos/check:
 #   how to deal with mx.clausura use mx.1.1 n mx.1.2 ??

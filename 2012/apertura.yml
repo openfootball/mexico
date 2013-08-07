@@ -7,6 +7,10 @@ start_at: 2012-07-20
 
 # note: timezone for games (play_at) is *always* CST (central standard time / -6 hours ??)
 
+fixtures:
+- apertura
+- apertura_liguilla
+
 
 #############
 # 18 teams

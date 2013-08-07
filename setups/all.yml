@@ -1,0 +1,16 @@
+##################
+# all fixtures
+
+leagues:
+- mx-mexico!/leagues
+
+teams:
+- mx-mexico!/teams
+
+
+2012:
+- mx-mexico!/2012/apertura
+
+2013:
+- mx-mexico!/2013/clausura
+
