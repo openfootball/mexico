@@ -7,3 +7,6 @@
 mx.apertura, México Primera División Apertura, mx
 mx.clausura, México Primera División Clausura, mx
 
+mx.2.apertura, México Segunda División Apertura, mx
+mx.2.clausura, México Segunda División Clausura, mx
+
