@@ -5,20 +5,20 @@
 
 
 Altamira, 2001            # en Altamira, Tamaulipas
-Correcaminos UAT|UA Tamaulipas, 1980    # en Victoria, Tamaulipas
+Correcaminos|UAT|Correcaminos UAT|UA. Tamaulipas, 1980    # en Victoria, Tamaulipas
 
 Dorados|Sinaloa, 2003             # en Culiacán, Sinaloa
 
-Estudiantes|Estudiantes UAG|Estudiantes Tecos|UAG|Universidad Autónoma de Guadalajara, 1971         # en Zapopan, Jalisco
-U. de Guadalajara|U. de G.|Universidad de Guadalajara|UDG, 1970  # en Guadalajara, Jalisco
+Estudiantes|Estudiantes UAG|Estudiantes Tecos|UAG|UA. Guadalajara|Universidad Autónoma de Guadalajara, 1971         # en Zapopan, Jalisco
+U. Guadalajara|U. de Guadalajara|U. de G.|Universidad de Guadalajara|UDG, 1970  # en Guadalajara, Jalisco
 
 Necaxa,  1923             # en Aguascalientes, Aguascalientes
 
-Atlético San Luis, 1998   # en San Luis Potosí, San Luis Potosí
+San Luis|Atlético San Luis, 1998   # en San Luis Potosí, San Luis Potosí
 
 Celaya, 1954              # en Celaya, Guanajuato
 
-Cruz Azul Hidalgo, 1993   # en Cd. Cooperativa Cruz Azul, Hidalgo  - Tula
+Cruz Azul Hidalgo|Cruz Azul Hgo., 1993   # en Cd. Cooperativa Cruz Azul, Hidalgo  - Tula
 
 Lobos BUAP|BUAP, 1967          # en Puebla, Puebla
 
