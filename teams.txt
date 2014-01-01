@@ -27,7 +27,11 @@
   city:mexico
 
 [pumas]
-  Pumas|UNAM|Pumas UNAM,   PUM        # NB: televisa uses UNM
+  Pumas|UNAM|Pumas UNAM|Universidad_Nacional, 1954,  PUM        # NB: televisa uses UNM
+  www.clubpumasunam.com
+  twitter: PumasMX
+  es.wikipedia: Club_Universidad_Nacional
+  Calle Totonacas No. 560, Col. Ajusco // Delegación Coyoacán // México, D.F.  C.P. 04300
   city:mexico
 
 
@@ -40,8 +44,15 @@
   Av Revolución 846-B, Col. Jardín Español // Monterrey, Nuevo León
   city:monterrey
 
+[tigres]
+  Tigres|UANL|Tigres UANL|UA. Nuevo León, 1960, TIG
+  www.tigres.com.mx
+  twitter: TigresOficial
+  es.wikipedia: Club_de_Fútbol_Tigres_de_la_Universidad_Autónoma_de_Nuevo_León
+  Estadio Universitario, Puerta No. 13 Ciudad Universitaria San Nicolás De Los Garza // Monterrey, Nuevo León
+  city:monterrey
 
-tigres,    Tigres|UANL|Tigres UANL|UA. Nuevo León,                     TIG, city:monterrey
+
 
 [chivas]
   Guadalajara|Chivas|Guadalajara Chivas|Deportivo Guadalajara, 1906, GUA
@@ -58,6 +69,7 @@ tigres,    Tigres|UANL|Tigres UANL|UA. Nuevo León,                     TIG, cit
   es.wikipedia: Club_Atlas_de_Guadalajara
   Av. Patria 2300, Col. Lomas del Bosque // Zapopan, Jalisco C.P. 45110
   city:guadalajara
+
 
 
 [atlante]
@@ -105,7 +117,7 @@ tigres,    Tigres|UANL|Tigres UANL|UA. Nuevo León,                     TIG, cit
 
 
 [puebla]
-  Puebla|Puebla F.C. , 1944, PUE
+  Puebla|Puebla F.C., 1944, PUE
   www.puebla-fc.com
   twitter: PueblaFC
   es.wikipedia: Puebla_Fútbol_Club
@@ -113,16 +125,44 @@ tigres,    Tigres|UANL|Tigres UANL|UA. Nuevo León,                     TIG, cit
   city:puebla
 
 
-queretaro, Querétaro|Querétaro F.C.,           QRO, city:queretaro
-sanluis,   San Luis|Club San Luis,            SNL,  city:sanluispotosi
+[queretaro]
+  Querétaro|Querétaro F.C.|Gallos Blancos (de Querétaro), 1950, QRO
+  www.clubqueretaro.com
+  twitter: Club_Queretaro
+  es.wikipedia: Querétaro_Fútbol_Club
+  Prol. Luis Vega y Monroy 409-4, Col. Balaustrads // Santiago de Querétaro, C.P. 76079
+  city:queretaro
 
-santos,    Santos|Santos Laguna,           SAN, city:torreon   # NB: televisa uses STS
-tijuana,   Tijuana|Club Tijuana,            TIJ, city:tijuana
-toluca,    Toluca|Deportivo Toluca, TOL, city:toluca
+[santos]
+  Santos|Santos Laguna, 1983, SAN   # NB: televisa uses STS
+  www.clubsantoslaguna.com.mx
+  twitter: ClubSantos
+  es.wikipedia: Club_Santos_Laguna
+  Calz. Territorio Santos Modelo No. 1, Col. Conjunto de Todos los Santos // Torreón, Coahuila
+  city:torreon
 
-veracruz,  Veracruz,   city:veracruz
+[tijuana]
+  Tijuana|Club Tijuana|Xolos|Club Tijuana Xoloitzcuintles de Caliente, 2007,  TIJ
+  www.xolos.com.mx
+  twitter: XolosOficial
+  es.wikipedia: Club_Tijuana
+  Paseo del Centenario 9211 Local 3 Módulo 6, Col. Zona Río // Tijuana, B.C. C.P. 22320
+  city:tijuana
 
 
+[toluca]
+  Toluca|Deportivo Toluca, 1917, TOL
+  www.deportivotolucafc.com
+  twitter: deptolucafc‎
+  es.wikipedia: Deportivo_Toluca
+  Felipe Villanueva No. 300 1er piso,  Colonia San Bernardino //  Toluca, Estado de México. C.P. 50080
+  city:toluca
 
-
+[veracruz]
+  Veracruz|Tiburones Rojos (de Veracruz), 1943
+  www.tiburones-rojos.com
+  twitter: tiburonesrojos
+  es.wikipedia: Tiburones_Rojos_de_Veracruz
+  Av. Jacarandas s/n esq. Av. España Fraccionamiento Virginia Boca del Río // Veracruz
+  city:veracruz
 

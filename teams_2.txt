@@ -14,7 +14,8 @@ U. Guadalajara|U. de Guadalajara|U. de G.|Universidad de Guadalajara|UDG, 1970  
 
 Necaxa,  1923             # en Aguascalientes, Aguascalientes
 
-San Luis|Atlético San Luis, 1998   # en San Luis Potosí, San Luis Potosí
+San Luis|Atlético San Luis|Club San Luis, 1998, SNL,  city:sanluispotosi   # en San Luis Potosí, San Luis Potosí
+
 
 Celaya, 1954              # en Celaya, Guanajuato
 
