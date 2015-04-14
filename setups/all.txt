@@ -5,8 +5,8 @@
 mx-mexico!/leagues
 
 ## clubs
-mx-mexico!/teams
-mx-mexico!/teams_2
+mx-mexico!/clubs
+mx-mexico!/clubs_2
 
 ## fixtures
 mx-mexico!/2012/apertura
