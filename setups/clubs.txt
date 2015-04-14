@@ -1,5 +1,4 @@
 ######################
 # teams
 
-teams:
-- mx-mexico!/teams
+mx-mexico!/clubs
