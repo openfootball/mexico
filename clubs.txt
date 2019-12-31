@@ -5,164 +5,114 @@
 #
 #  18 teams
 
-# use three letter codes used by
-#   - Record -> http://www.record.com.mx
-#   - Televisa Deportes -> http://televisadeportes.esmas.com
 
-
-[america]
-  América|Club América|América de Mexico|Águilas, 1916, AME
-  www.clubamerica.com.mx
-  twitter: CF_America
+  América|Club América|América de Mexico|Águilas, 1916
   es.wikipedia: Club_América
   Calle del Toro No. 100, Col. Ex Hacienda de Coapa Delegación Coyoacán // México D.F. C.P. 14390
   city:mexico
 
-[cruzazul]
-  Cruz Azul|Cruz Azul FC|Cruz Azul Fútbol Club, 1927, CAZ
-  www.cruzazulfc.com
-  twitter: Cruz_Azul_FC
+
+  Cruz Azul|Cruz Azul FC|Cruz Azul Fútbol Club, 1927
   es.wikipedia: Cruz_Azul
   San Pablo No. 100, Col. La Noria, Antiguo Camino a Xochimilco // México D.F.
   city:mexico
 
-[pumas]
-  Pumas|UNAM|Pumas UNAM|Universidad_Nacional, 1954,  PUM        # NB: televisa uses UNM
-  www.clubpumasunam.com
-  twitter: PumasMX
+
+  Pumas|UNAM|Pumas UNAM|Universidad_Nacional, 1954
   es.wikipedia: Club_Universidad_Nacional
   Calle Totonacas No. 560, Col. Ajusco // Delegación Coyoacán // México, D.F.  C.P. 04300
   city:mexico
 
 
 
-[monterrey]
-  Monterrey|CF Monterrey|Rayados (de Monterrey), 1945, MTY
-  www.rayados.com
-  twitter: Rayados
+  Monterrey|CF Monterrey|Rayados (de Monterrey), 1945
   es.wikipedia: Club_de_Fútbol_Monterrey
   Av Revolución 846-B, Col. Jardín Español // Monterrey, Nuevo León
   city:monterrey
 
-[tigres]
-  Tigres|UANL|Tigres UANL|UA. Nuevo León, 1960, TIG
-  www.tigres.com.mx
-  twitter: TigresOficial
+  Tigres|UANL|Tigres UANL|UA. Nuevo León, 1960
   es.wikipedia: Club_de_Fútbol_Tigres_de_la_Universidad_Autónoma_de_Nuevo_León
   Estadio Universitario, Puerta No. 13 Ciudad Universitaria San Nicolás De Los Garza // Monterrey, Nuevo León
   city:monterrey
 
 
 
-[chivas]
-  Guadalajara|Chivas|Guadalajara Chivas|Deportivo Guadalajara, 1906, GUA
-  www.chivasdecorazon.com.mx
-  twitter: Chivas
+  Guadalajara|Chivas|Guadalajara Chivas|Deportivo Guadalajara, 1906
   es.wikipedia: Club_Deportivo_Guadalajara
   Francisco I. Madero No. 5840, Col. Jocotán // Zapopan
   city:guadalajara
 
-[atlas]
-  Atlas,  1916, ATS
-  futbol.atlas.com.mx
-  twitter: atlasoficial
+
+  Atlas,  1916
   es.wikipedia: Club_Atlas_de_Guadalajara
   Av. Patria 2300, Col. Lomas del Bosque // Zapopan, Jalisco C.P. 45110
   city:guadalajara
 
 
 
-[atlante]
-  Atlante|Potros (de Hierro), 1916, ATL  # NB: televisa uses ATN
-  www.atlantefc.mx
-  twitter: FCAtlante
+  Atlante|Potros (de Hierro), 1916
   es.wikipedia: Club_de_Fútbol_Atlante
   Av. Mayapán esq. Av. Kabah s/n Supermanzana 43 Pedregal del Bosque // Quintana Roo
   city:cancun
 
-[jaguares]
-  Jaguares|Chiapas|Jaguares de Chiapas, 2002, JAG
-  www.chiapasfc.com
-  twitter: SoyJaguar
+
+  Jaguares|Chiapas|Jaguares de Chiapas, 2002
   es.wikipedia: Chiapas_Fútbol_Club
   Calzada de las Etnias s/n, esq. Blvd Fidel Velázquez, Col. Infonavit el Grijalva // Tuxtla Gutierrez, Chiapas C.P. 29047
   city:tuxtla
 
 
-[leon]
-  León|Club León, 1944, LEO
-  www.clubleon-fc.com
-  twitter: clubleonfc
+
+  León|Club León, 1944
   es.wikipedia: Club_León
   Boulevard Adolfo López Mateos 1810, Col. La Martinica // León
   city:leon
 
 
-[morelia]
-  Morelia|Monarcas|Monarcas Morelia|Atletico Monarcas Morelia, 1924, MOR
-  www.fuerzamonarca.com
-  twitter: FuerzaMonarca
+  Morelia|Monarcas|Monarcas Morelia|Atletico Monarcas Morelia, 1924
   es.wikipedia: Monarcas_Morelia
   Av. Camelinas No. 3537, Col. 5 de Diciembre // Morelia, Michoacán C.P. 58260
   city:morelia
 
 
-[pachuca]
-  Pachuca, 1901, PAC
-  www.tuzos.com.mx
-  twitter: Tuzos
+  Pachuca, 1901
   es.wikipedia: Club_de_Fútbol_Pachuca
   Libramiento Circuito de la Concepción km 2 s/n, Col. La Concepción // San Agustín Tlaxlaca, Hidalgo C.P. 42160
   city:pachuca
 
 
-[puebla]
-  Puebla|Puebla F.C., 1944, PUE
-  www.puebla-fc.com
-  twitter: PueblaFC
+  Puebla|Puebla F.C., 1944
   es.wikipedia: Puebla_Fútbol_Club
   Calz. Ignacio Zaragoza No. 666, Col. Maravillas Unidad Deportiva Estadio Cuauhtémoc // Puebla, Pue.  C.P. 72220
   city:puebla
 
 
-[queretaro]
-  Querétaro|Querétaro F.C.|Gallos Blancos (de Querétaro), 1950, QRO
-  www.clubqueretaro.com
-  twitter: Club_Queretaro
+
+  Querétaro|Querétaro F.C.|Gallos Blancos (de Querétaro), 1950
   es.wikipedia: Querétaro_Fútbol_Club
   Prol. Luis Vega y Monroy 409-4, Col. Balaustrads // Santiago de Querétaro, C.P. 76079
   city:queretaro
 
-[santos]
-  Santos|Santos Laguna, 1983, SAN   # NB: televisa uses STS
-  www.clubsantoslaguna.com.mx
-  twitter: ClubSantos
+
+  Santos|Santos Laguna, 1983
   es.wikipedia: Club_Santos_Laguna
   Calz. Territorio Santos Modelo No. 1, Col. Conjunto de Todos los Santos // Torreón, Coahuila
   city:torreon
 
-[tijuana]
-  Tijuana|Club Tijuana|Xolos|Club Tijuana Xoloitzcuintles de Caliente, 2007,  TIJ
-  www.xolos.com.mx
-  twitter: XolosOficial
+
+  Tijuana|Club Tijuana|Xolos|Club Tijuana Xoloitzcuintles de Caliente, 2007
   es.wikipedia: Club_Tijuana
   Paseo del Centenario 9211 Local 3 Módulo 6, Col. Zona Río // Tijuana, B.C. C.P. 22320
   city:tijuana
 
 
-[toluca]
-  Toluca|Deportivo Toluca, 1917, TOL
-  www.deportivotolucafc.com
-  twitter: deptolucafc‎
+  Toluca|Deportivo Toluca, 1917
   es.wikipedia: Deportivo_Toluca
   Felipe Villanueva No. 300 1er piso,  Colonia San Bernardino //  Toluca, Estado de México. C.P. 50080
   city:toluca
 
-[veracruz]
+
   Veracruz|Tiburones Rojos (de Veracruz), 1943
-  www.tiburones-rojos.com
-  twitter: tiburonesrojos
   es.wikipedia: Tiburones_Rojos_de_Veracruz
   Av. Jacarandas s/n esq. Av. España Fraccionamiento Virginia Boca del Río // Veracruz
   city:veracruz
-
