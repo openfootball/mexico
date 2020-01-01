@@ -37,3 +37,19 @@ Official Site - [`www.ligamx.net` (es)](http://www.ligamx.net)
 
 - [Televisa Deportes (es)](http://televisadeportes.esmas.com)
 
+
+
+## More
+
+### Liga MX Apertura 2012 (plus Liguilla)
+
+- start_at: 2012-07-20
+- note: timezone for games (play_at) is *always* CST (central standard time / -6 hours ??)
+- 18 teams
+
+### Liga MX Clausura 2013 (plus Liguilla)
+
+- start_at: 2013-01-04
+- note: timezone for games (play_at) is *always* CST (central standard time / -6 hours ??)
+- 18 teams
+
