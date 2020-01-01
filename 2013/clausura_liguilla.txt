@@ -1,5 +1,4 @@
-###########################################
-# Liguilla Clausura 2013
+= Liguilla Clausura 2013
 
 
 (18) Cuartos de Final / Ida      // 8 y 9 de mayo
