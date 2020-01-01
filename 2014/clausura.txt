@@ -1,7 +1,5 @@
-#######################################
-# Liga MX Clausura 2014
+= Liga MX Clausura 2014
 
-## todo: check alternative names - add to teams.txt if not included!!
 
 Jornada 1  //  3, 4 y 5 de enero
 
