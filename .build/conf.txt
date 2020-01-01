@@ -1,0 +1,23 @@
+5 datafiles:
+[1/5] >2012/apertura.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[2/5] >2012/apertura_liguilla.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[3/5] >2013/clausura.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[4/5] >2013/clausura_liguilla.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[5/5] >2014/clausura.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+
+
+[1/5] >2012/apertura.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[2/5] >2012/apertura_liguilla.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[3/5] >2013/clausura.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[4/5] >2013/clausura_liguilla.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[5/5] >2014/clausura.txt<
+  !!! WARN !!! - NO sections found; 0 sections
