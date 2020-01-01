@@ -1,5 +1,4 @@
-#########################
-# Liga MX Apertura 2012  
+= Liga MX Apertura 2012  
 
 
 ## todo: use  Time.cst('2012-07-27 19:30') for timezones
