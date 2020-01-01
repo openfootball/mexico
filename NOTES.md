@@ -1,10 +1,10 @@
+# Notes
 
 ## Liga MX / Primera División de México
 
 Official Site - [`www.ligamx.net` (es)](http://www.ligamx.net)
 
 - 18 teams
-
 
 ### Wikipedia (es)
 
