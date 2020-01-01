@@ -1,7 +1,5 @@
-#################################
-# Liguilla Apertura 2012
+= Liguilla Apertura 2012
 
-#### fix: use spanish names only
 
 (18) Cuartos de Final / Ida      // 14/15 de noviembre
 
