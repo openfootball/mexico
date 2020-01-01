@@ -1,5 +1,4 @@
-###########################
-# Liga MX Clausura 2013
+= Liga MX Clausura 2013
 
 
 Jornada 1  //  4, 5 y 6 de enero
