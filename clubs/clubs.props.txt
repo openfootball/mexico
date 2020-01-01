@@ -22,4 +22,4 @@ queretaro,     Querétaro FC,             QRO
 santos,        Santos Laguna,            SAN   # note: televisa uses STS
 tijuana,       Club Tijuana,             TIJ
 toluca,        Deportivo Toluca,         TOL
-veracruz,      Veracruz
+veracruz,      Veracruz,                  ?
