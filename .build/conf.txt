@@ -13,11 +13,7 @@
     6 lines - league: >México Primera División< (mx.1), season: >2013<, 0 clubs, 6 rounds
 [5/5] >2014/clausura.txt<
   1 section(s):
-    20 lines - league: >México Primera División< (mx.1), season: >2014<, 21 clubs, 2 rounds
-!! ERROR: 3 duplicate club record(s) found
-    2 duplicate names for >Querétaro FC<:  Gallos Blancos de Querétaro | Querétaro
-    2 duplicate names for >CF Monterrey<:  Monterrey | Rayados de Monterrey
-    2 duplicate names for >Tiburones Rojos Veracruz<:  Tiburones Rojos de Veracruz | Veracruz
+    20 lines - league: >México Primera División< (mx.1), season: >2014<, 18 clubs, 2 rounds
 
 
 [1/5] >2012/apertura.txt<
@@ -133,7 +129,7 @@
 [5/5] >2014/clausura.txt<
   1 section(s):
     20 lines - league: >México Primera División< (mx.1), season: >2014<
-      21 clubs:
+      18 clubs:
         2× América ⇒ Club América
         2× Atlante ⇒ Atlante FC
         2× Atlas ⇒ Club Atlas
@@ -142,23 +138,16 @@
         2× Jaguares de Chiapas ⇒ Jaguares Chiapas
         2× León ⇒ Club León
         2× Monarcas Morelia
+        2× Monterrey ⇒ CF Monterrey
         2× Pachuca ⇒ CF Pachuca
         2× Puebla ⇒ Club Puebla
+        2× Querétaro ⇒ Querétaro FC
         2× Santos Laguna
         2× Tigres UANL
         2× Tijuana ⇒ Club Tijuana
         2× Toluca ⇒ Deportivo Toluca FC
         2× Universidad Nacional ⇒ Pumas UNAM
-        Gallos Blancos de Querétaro ⇒ Querétaro FC
-        Monterrey ⇒ CF Monterrey
-        Querétaro ⇒ Querétaro FC
-        Rayados de Monterrey ⇒ CF Monterrey
-        Tiburones Rojos de Veracruz ⇒ Tiburones Rojos Veracruz
-        Veracruz ⇒ Tiburones Rojos Veracruz
-!! ERROR: 3 duplicate club record(s) found
-    2 duplicate names for >Querétaro FC<:  Gallos Blancos de Querétaro | Querétaro
-    2 duplicate names for >CF Monterrey<:  Monterrey | Rayados de Monterrey
-    2 duplicate names for >Tiburones Rojos Veracruz<:  Tiburones Rojos de Veracruz | Veracruz
+        2× Veracruz ⇒ Tiburones Rojos Veracruz
       2 rounds:
         Jornada 1  //  3, 4 y 5 de enero, 9 matches
         Jornada 2  //  10, 11 y 12 de enero, 9 matches
