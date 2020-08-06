@@ -1,4 +1,8 @@
-= Liga MX Apertura 2012  
+= Liga MX 2012/13, Apertura
+
+##
+## todo: auto-convert (fancier/nicer) Liga MX Apertura 2012 into
+##                                    Liga MX 2012/13, Apertura  - why? why not?
 
 
 ## todo: use  Time.cst('2012-07-27 19:30') for timezones

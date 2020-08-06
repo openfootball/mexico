@@ -1,4 +1,9 @@
-= Liguilla Clausura 2013
+= Liga MX 2012/13, Clausura - Liguilla
+
+##
+## todo: auto-convert (fancier/nicer) Liguilla Clausura 2013 into
+##                                    Liga MX 2012/13, Clausura - Liguilla or such - why? why not?
+
 
 
 Cuartos de Final / Ida      // 8 y 9 de mayo
