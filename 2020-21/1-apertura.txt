@@ -99,8 +99,8 @@ Jornada 6
 
 Jornada 7
 [Vie. 28.8.]
-  19.30  Club Puebla              -  Deportivo Toluca FC
-  21.30  Mazatlán FC              -  Tigres UANL
+  19.30  Club Puebla              4-1 (2-1)  Deportivo Toluca FC
+  21.30  Mazatlán FC              1-1 (0-0)  Tigres UANL
 [Sáb. 29.8.]
   19.00  Atlético San Luis        -  Club América
          CD Guadalajara Chivas    -  CF Pachuca
@@ -118,13 +118,13 @@ Jornada 8
   19.00  Querétaro FC             -  Deportivo Toluca FC
   21.00  CF Pachuca               -  Atlético San Luis
 [Vie. 4.9.]
+  19.00  Club Tijuana             -  CF Monterrey
   19.30  Club Necaxa              -  Club León
   21.30  FC Juárez                -  Santos Laguna
 [Sáb. 5.9.]
   17.00  Pumas UNAM               -  Club Puebla
   19.00  Club Atlas               -  Cruz Azul
-  21.00  Club Tijuana             -  CF Monterrey
-         Tigres UANL              -  CD Guadalajara Chivas
+  21.00  Tigres UANL              -  CD Guadalajara Chivas
 [Dom. 6.9.]
   17.30  Club América             -  Mazatlán FC
 
