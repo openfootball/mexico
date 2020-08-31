@@ -102,18 +102,20 @@ Jornada 7
   19.30  Club Puebla              4-1 (2-1)  Deportivo Toluca FC
   21.30  Mazatlán FC              1-1 (0-0)  Tigres UANL
 [Sáb. 29.8.]
-  19.00  Atlético San Luis        -  Club América
-         CD Guadalajara Chivas    -  CF Pachuca
-  21.00  Cruz Azul                -  Club Necaxa
+  19.00  Atlético San Luis        1-2 (1-1)  Club América
+         CD Guadalajara Chivas    0-0  CF Pachuca
+  21.00  Cruz Azul                3-0 (1-0)  Club Necaxa
 [Dom. 30.8.]
-  12.00  Pumas UNAM               -  Club Tijuana
-  19.06  Santos Laguna            -  Querétaro FC
-  21.06  CF Monterrey             -  FC Juárez
+  12.00  Pumas UNAM               3-0 (1-0)  Club Tijuana
+  19.06  Santos Laguna            2-1 (1-1)  Querétaro FC
+  21.06  CF Monterrey             2-1 (0-1)  FC Juárez
 [Lun. 31.8.]
-  21.00  Club León                -  Club Atlas
+  21.05  Club León                -  Club Atlas
 
 
 Jornada 8
+[Mié. 2.9.]
+  20.00  Club América             -  Mazatlán FC
 [Jue. 3.9.]
   19.00  Querétaro FC             -  Deportivo Toluca FC
   21.00  CF Pachuca               -  Atlético San Luis
@@ -125,8 +127,6 @@ Jornada 8
   17.00  Pumas UNAM               -  Club Puebla
   19.00  Club Atlas               -  Cruz Azul
   21.00  Tigres UANL              -  CD Guadalajara Chivas
-[Dom. 6.9.]
-  17.30  Club América             -  Mazatlán FC
 
 
 Jornada 9
