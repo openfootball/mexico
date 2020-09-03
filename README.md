@@ -14,10 +14,22 @@ Free open public domain football data (football.db)
 for Mexico / North America
 
 
-## Build Your Own `football.db` Copy
+## Build Your Own `mexico.db` Copy
 
-Use the `sportdb` command line tool to build your own `football.db` copy
-from the datasets in plain text. [More »](https://github.com/openfootball/quick-starter)
+Try in your working folder (that is, `/mexico`):
+
+```
+$ sportdb build
+$ sportdb --verbose build     # or for more (verbose) details incl. debug info
+```
+
+This will
+
+- setup a new single-file SQLite database e.g. `./sport.db`
+- read in all datasets in plain text (`.txt`)
+
+That's it.
+
 
 
 ## Questions? Comments?
