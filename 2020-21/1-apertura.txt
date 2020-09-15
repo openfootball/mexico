@@ -110,59 +110,59 @@ Jornada 7
   19.06  Santos Laguna            2-1 (1-1)  Querétaro FC
   21.06  CF Monterrey             2-1 (0-1)  FC Juárez
 [Lun. 31.8.]
-  21.05  Club León                -  Club Atlas
+  21.05  Club León                2-1 (2-1)  Club Atlas
 
 
 Jornada 8
 [Mié. 2.9.]
-  20.00  Club América             -  Mazatlán FC
+  20.00  Club América             3-1 (0-0)  Mazatlán FC
 [Jue. 3.9.]
-  19.00  Querétaro FC             -  Deportivo Toluca FC
-  21.00  CF Pachuca               -  Atlético San Luis
+  19.00  Querétaro FC             4-1 (2-0)  Deportivo Toluca FC
+  21.00  CF Pachuca               3-1 (2-0)  Atlético San Luis
 [Vie. 4.9.]
-  19.00  Club Tijuana             -  CF Monterrey
-  19.30  Club Necaxa              -  Club León
-  21.30  FC Juárez                -  Santos Laguna
+  19.30  Club Necaxa              0-2 (0-1)  Club León
+  21.06  Club Tijuana             2-1 (1-1)  CF Monterrey
+  21.30  FC Juárez                1-1 (0-0)  Santos Laguna
 [Sáb. 5.9.]
-  17.00  Pumas UNAM               -  Club Puebla
-  19.00  Club Atlas               -  Cruz Azul
-  21.00  Tigres UANL              -  CD Guadalajara Chivas
+  17.00  Pumas UNAM               4-1 (2-1)  Club Puebla
+  19.00  Club Atlas               1-0 (0-0)  Cruz Azul
+  21.00  Tigres UANL              1-3 (0-1)  CD Guadalajara Chivas
 
 
 Jornada 9
 [Mar. 8.9.]
-  17.00  Atlético San Luis        -  Club Necaxa
-  19.00  CF Monterrey             -  Club Atlas
-         Deportivo Toluca FC      -  FC Juárez
-  21.00  CD Guadalajara Chivas    -  Querétaro FC
-         Club Puebla              -  Club América
+  17.00  Atlético San Luis        2-1 (0-1)  Club Necaxa
+  19.00  Deportivo Toluca FC      0-1 (0-0)  FC Juárez
+  19.06  CF Monterrey             1-1 (0-0)  Club Atlas
+  21.00  CD Guadalajara Chivas    1-1 (1-0)  Querétaro FC
+         Club Puebla              2-3 (2-0)  Club América
 [Mié. 9.9.]
-  17.00  Club León                -  Tigres UANL
-  19.00  Cruz Azul                -  CF Pachuca
-  21.00  Mazatlán FC              -  Club Tijuana
-         Santos Laguna            -  Pumas UNAM
+  17.00  Club León                1-1 (1-0)  Tigres UANL
+  19.00  Cruz Azul                1-0 (0-0)  CF Pachuca
+  21.00  Mazatlán FC              1-0 (1-0)  Club Tijuana
+  21.06  Santos Laguna            1-2 (0-1)  Pumas UNAM
 
 
 Jornada 10
 [Vie. 11.9.]
-  19.30  Club Necaxa              -  CD Guadalajara Chivas
-  21.30  FC Juárez                -  Club Puebla
+  19.30  Club Necaxa              1-2 (0-0)  CD Guadalajara Chivas
+  21.30  FC Juárez                1-0 (1-0)  Club Puebla
 [Sáb. 12.9.]
-  17.00  Club Atlas               -  Mazatlán FC
-  19.00  Tigres UANL              -  Santos Laguna
-  21.00  Club América             -  Deportivo Toluca FC
+  17.00  Club Atlas               1-1 (0-0)  Mazatlán FC
+  19.00  Tigres UANL              2-0 (1-0)  Santos Laguna
+  21.00  Club América             1-1 (1-1)  Deportivo Toluca FC
 [Dom. 13.9.]
-  12.00  Pumas UNAM               -  Atlético San Luis
-  19.00  Querétaro FC             -  Club León
-  21.00  Club Tijuana             -  Cruz Azul
+  12.00  Pumas UNAM               3-0 (1-0)  Atlético San Luis
+  19.00  Querétaro FC             2-3 (0-1)  Club León
+  21.06  Club Tijuana             1-2 (1-0)  Cruz Azul
 [Lun. 14.9.]
-  21.00  CF Pachuca               -  CF Monterrey
+  21.00  CF Pachuca               1-1 (0-1)  CF Monterrey
 
 
 Jornada 11
 [Vie. 18.9.]
   19.30  Club Necaxa              -  Club Puebla
-  21.00  Club Tijuana             -  FC Juárez
+  21.06  Club Tijuana             -  FC Juárez
   21.30  Mazatlán FC              -  Cruz Azul
 [Sáb. 19.9.]
   17.00  Club Atlas               -  CF Pachuca
@@ -172,7 +172,7 @@ Jornada 11
   12.00  Deportivo Toluca FC      -  Santos Laguna
   19.00  Atlético San Luis        -  CF Monterrey
 [Lun. 21.9.]
-  20.30  Club León                -  Pumas UNAM
+  21.00  Club León                -  Pumas UNAM
 
 
 Jornada 12
