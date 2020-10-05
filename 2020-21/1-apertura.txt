@@ -168,8 +168,8 @@ Jornada 11
   19.00  Tigres UANL              3-0 (0-0)  Querétaro FC
   17.00  Club Atlas               0-1 (0-0)  CF Pachuca
 [Dom. 20.9.]
-  19.00  Atlético San Luis        1-2 (1-2)  CF Monterrey
   12.00  Deportivo Toluca FC      1-2 (0-1)  Santos Laguna
+  19.00  Atlético San Luis        1-2 (1-2)  CF Monterrey
 [Lun. 21.9.]
   21.00  Club León                2-0 (1-0)  Pumas UNAM
 
@@ -178,41 +178,40 @@ Jornada 12
 [Jue. 24.9.]
   21.00  CF Pachuca               0-0  Deportivo Toluca FC
 [Vie. 25.9.]
-  19.30  Club Puebla              -  Querétaro FC
-  21.30  FC Juárez                -  Club Atlas
+  19.30  Club Puebla              3-3 (1-2)  Querétaro FC
+  21.30  FC Juárez                0-1 (0-1)  Club Atlas
 [Sáb. 26.9.]
-  21.06  CF Monterrey             -  Tigres UANL
-  17.00  CD Guadalajara Chivas    -  Mazatlán FC
-  19.00  Pumas UNAM               -  Club Necaxa
+  21.06  CF Monterrey             0-2 (0-1)  Tigres UANL
+  17.00  CD Guadalajara Chivas    2-1 (2-1)  Mazatlán FC
+  19.00  Pumas UNAM               1-1 (0-1)  Club Necaxa
 [Dom. 27.9.]
-  20.45  Cruz Azul                -  Club América
-  17.00  Atlético San Luis        -  Club León
+  17.00  Atlético San Luis        0-2 (0-1)  Club León
+  20.45  Cruz Azul                0-0  Club América
 
 
 Jornada 11
 [Mié. 30.9.]
-  17.00  Club Tijuana             -  FC Juárez
+  19.06  Club Tijuana             2-1 (1-1)  FC Juárez
 
 
 Jornada 13
 [Vie. 2.10.]
-  21.30  FC Juárez                -  CF Pachuca
-  19.30  Club Puebla              -  Santos Laguna
+  21.30  Club León                2-1 (0-0)  Mazatlán FC
+  19.30  Club Puebla              0-2 (0-2)  Santos Laguna
 [Sáb. 3.10.]
-  21.00  Club América             -  Pumas UNAM
-  19.00  Tigres UANL              -  Atlético San Luis
-  17.00  Club Atlas               -  Club Necaxa
+  21.00  Club América             2-2 (1-1)  Pumas UNAM
+  19.00  Tigres UANL              3-0 (0-0)  Atlético San Luis
+  17.00  Club Atlas               0-1 (0-0)  Club Necaxa
 [Dom. 4.10.]
-  19.00  Querétaro FC             -  CF Monterrey
-  12.00  Deportivo Toluca FC      -  Cruz Azul
-  21.00  Club Tijuana             -  CD Guadalajara Chivas
-[Lun. 5.10.]
-  21.00  Club León                -  Mazatlán FC
+  21.06  Club Tijuana             0-0  CD Guadalajara Chivas
+  12.00  Deportivo Toluca FC      2-0 (1-0)  Cruz Azul
+  17.00  FC Juárez                1-1 (0-1)  CF Pachuca
+  19.00  Querétaro FC             1-2 (0-0)  CF Monterrey
 
 
 Jornada 12
-[Sáb. 10.10.]
-  20.00  Santos Laguna            -  Club Tijuana
+[Dom. 11.10.]
+  19.06  Santos Laguna            -  Club Tijuana
 
 
 Jornada 14
@@ -222,9 +221,9 @@ Jornada 14
   19.30  Club Necaxa              -  Club Tijuana
   21.30  Mazatlán FC              -  FC Juárez
 [Sáb. 17.10.]
-  17.00  CF Monterrey             -  Club Puebla
-  19.00  CD Guadalajara Chivas    -  Club Atlas
   21.00  Cruz Azul                -  Tigres UANL
+  19.00  CD Guadalajara Chivas    -  Club Atlas
+  17.00  CF Monterrey             -  Club Puebla
 [Dom. 18.10.]
   12.00  Pumas UNAM               -  Deportivo Toluca FC
   19.00  Santos Laguna            -  CF Pachuca
@@ -238,8 +237,8 @@ Jornada 15
   21.30  Mazatlán FC              -  CF Monterrey
 [Sáb. 24.10.]
   17.00  Querétaro FC             -  Club Necaxa
-  20.00  Club América             -  Club Atlas
   19.00  Tigres UANL              -  FC Juárez
+  20.00  Club América             -  Club Atlas
 [Dom. 25.10.]
   12.00  Deportivo Toluca FC      -  Club Tijuana
   17.30  CD Guadalajara Chivas    -  Cruz Azul
