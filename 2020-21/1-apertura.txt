@@ -211,22 +211,22 @@ Jornada 13
 
 Jornada 12
 [Dom. 11.10.]
-  19.06  Santos Laguna            -  Club Tijuana
+  19.06  Santos Laguna            2-0 (2-0)  Club Tijuana
 
 
 Jornada 14
 [Jue. 15.10.]
-  21.00  Atlético San Luis        -  Querétaro FC
+  21.00  Atlético San Luis        2-1 (1-0)  Querétaro FC
 [Vie. 16.10.]
-  19.30  Club Necaxa              -  Club Tijuana
-  21.30  Mazatlán FC              -  FC Juárez
+  19.30  Club Necaxa              2-0 (1-0)  Club Tijuana
+  21.30  Mazatlán FC              3-2 (3-1)  FC Juárez
 [Sáb. 17.10.]
-  21.00  Cruz Azul                -  Tigres UANL
-  19.00  CD Guadalajara Chivas    -  Club Atlas
-  17.00  CF Monterrey             -  Club Puebla
+  21.00  Cruz Azul                0-2 (0-0)  Tigres UANL
+  19.00  CD Guadalajara Chivas    3-2 (2-0)  Club Atlas
+  17.06  CF Monterrey             3-1 (2-0)  Club Puebla
 [Dom. 18.10.]
   12.00  Pumas UNAM               -  Deportivo Toluca FC
-  19.00  Santos Laguna            -  CF Pachuca
+  19.06  Santos Laguna            -  CF Pachuca
 [Lun. 19.10.]
   21.00  Club León                -  Club América
 
@@ -234,10 +234,10 @@ Jornada 14
 Jornada 15
 [Vie. 23.10.]
   19.30  Club Puebla              -  Club León
-  21.30  Mazatlán FC              -  CF Monterrey
 [Sáb. 24.10.]
   17.00  Querétaro FC             -  Club Necaxa
-  19.00  Tigres UANL              -  FC Juárez
+  19.00  Mazatlán FC              -  CF Monterrey
+         Tigres UANL              -  FC Juárez
   20.00  Club América             -  Club Atlas
 [Dom. 25.10.]
   12.00  Deportivo Toluca FC      -  Club Tijuana
