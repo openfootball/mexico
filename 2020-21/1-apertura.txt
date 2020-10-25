@@ -225,24 +225,24 @@ Jornada 14
   19.00  CD Guadalajara Chivas    3-2 (2-0)  Club Atlas
   17.06  CF Monterrey             3-1 (2-0)  Club Puebla
 [Dom. 18.10.]
-  12.00  Pumas UNAM               -  Deportivo Toluca FC
-  19.06  Santos Laguna            -  CF Pachuca
+  12.00  Pumas UNAM               1-0 (0-0)  Deportivo Toluca FC
+  19.06  Santos Laguna            1-1 (1-1)  CF Pachuca
 [Lun. 19.10.]
-  21.00  Club León                -  Club América
+  21.00  Club León                3-2 (2-2)  Club América
 
 
 Jornada 15
 [Vie. 23.10.]
-  19.30  Club Puebla              -  Club León
+  19.30  Club Puebla              1-2 (0-0)  Club León
 [Sáb. 24.10.]
-  17.00  Querétaro FC             -  Club Necaxa
-  19.00  Mazatlán FC              -  CF Monterrey
-         Tigres UANL              -  FC Juárez
-  20.00  Club América             -  Club Atlas
+  17.00  Querétaro FC             0-1 (0-1)  Club Necaxa
+  19.00  Tigres UANL              1-1 (0-0)  FC Juárez
+  20.00  Mazatlán FC              1-2 (0-2)  CF Monterrey
+         Club América             1-0 (0-0)  Club Atlas
 [Dom. 25.10.]
   12.00  Deportivo Toluca FC      -  Club Tijuana
   17.30  CD Guadalajara Chivas    -  Cruz Azul
-  19.00  Santos Laguna            -  Atlético San Luis
+  19.06  Santos Laguna            -  Atlético San Luis
 [Lun. 26.10.]
   21.00  CF Pachuca               -  Pumas UNAM
 
@@ -252,11 +252,11 @@ Jornada 16
   21.00  Atlético San Luis        -  Mazatlán FC
 [Vie. 30.10.]
   19.30  Club Necaxa              -  Deportivo Toluca FC
-  21.00  Club Tijuana             -  CF Pachuca
+  21.06  Club Tijuana             -  CF Pachuca
   21.30  FC Juárez                -  Querétaro FC
 [Sáb. 31.10.]
   17.00  Club Atlas               -  Club Puebla
-  21.00  CF Monterrey             -  Cruz Azul
+  21.06  CF Monterrey             -  Cruz Azul
   19.00  Pumas UNAM               -  CD Guadalajara Chivas
 [Dom. 1.11.]
   17.30  Club América             -  Tigres UANL
