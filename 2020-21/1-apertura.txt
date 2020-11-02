@@ -249,17 +249,17 @@ Jornada 15
 
 Jornada 16
 [Jue. 29.10.]
-  21.00  Atlético San Luis        -  Mazatlán FC
+  21.00  Atlético San Luis        0-5 (0-5)  Mazatlán FC
 [Vie. 30.10.]
-  19.30  Club Necaxa              -  Deportivo Toluca FC
-  20.06  Club Tijuana             -  CF Pachuca
-  21.30  FC Juárez                -  Querétaro FC
+  19.30  Club Necaxa              3-2 (1-1)  Deportivo Toluca FC
+  21.06  Club Tijuana             0-2 (0-1)  CF Pachuca
+  21.30  FC Juárez                1-0 (0-0)  Querétaro FC
 [Sáb. 31.10.]
-  17.00  Club Atlas               -  Club Puebla
-  21.06  CF Monterrey             -  Cruz Azul
-  19.00  Pumas UNAM               -  CD Guadalajara Chivas
+  17.00  Club Atlas               0-1 (0-1)  Club Puebla
+  21.06  CF Monterrey             1-0 (0-0)  Cruz Azul
+  19.00  Pumas UNAM               2-2 (1-2)  CD Guadalajara Chivas
 [Dom. 1.11.]
-  17.30  Club América             -  Tigres UANL
+  17.30  Club América             3-1 (1-0)  Tigres UANL
 [Lun. 2.11.]
   21.00  Club León                -  Santos Laguna
 
@@ -270,11 +270,10 @@ Jornada 17
   19.30  Club Puebla              -  Atlético San Luis
 [Sáb. 7.11.]
   17.00  CD Guadalajara Chivas    -  CF Monterrey
+         CF Pachuca               -  Club Necaxa
   19.00  Tigres UANL              -  Club Atlas
   21.00  Cruz Azul                -  Pumas UNAM
 [Dom. 8.11.]
-  21.00  Querétaro FC             -  Club Tijuana
-  19.00  Santos Laguna            -  Mazatlán FC
   12.00  Deportivo Toluca FC      -  Club León
-[Lun. 9.11.]
-  21.00  CF Pachuca               -  Club Necaxa
+  19.06  Santos Laguna            -  Mazatlán FC
+  21.00  Querétaro FC             -  Club Tijuana
