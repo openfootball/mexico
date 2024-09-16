@@ -1,0 +1,558 @@
+= Liga de Expansión MX 2023/24
+
+# Date       Fri Jul/21 2023 - Sat May/18 2024 (302d)
+# Teams      15
+# Matches    246
+# Stages     Apertura (105)  Apertura Playoffs (17)  Clausura (105)  Clausura Playoffs (17)  Campéon (2)
+
+
+== Apertura
+
+Matchday 1
+[Fri Jul/21]
+  19.05  Venados FC               3-1 (1-1)  Coyotes de Tlaxcala
+[Sat Jul/22]
+  19.05  Correcaminos UAT         2-0 (0-0)  Dorados de Sinaloa
+  17.05  Tapatío                  0-0  Cancún FC
+[Sun Jul/23]
+  19.05  Mineros de Zacatecas     4-0 (2-0)  Atlético Morelia
+  12.00  Tepatitlán               1-1 (0-0)  Cimarrones de Sonora
+[Mon Jul/24]
+  19.05  Atlante                  1-0 (1-0)  Leones Negros
+[Wed Jul/26]
+  21.05  Atlético La Paz          2-1 (0-0)  Club Celaya
+
+
+Matchday 2
+[Fri Jul/28]
+  21.05  Correcaminos UAT         3-3 (1-1)  Mineros de Zacatecas
+[Sat Jul/29]
+  19.05  Cancún FC                2-1 (1-0)  Venados FC
+  17.05  Coyotes de Tlaxcala      1-2 (0-1)  Atlante
+[Sun Jul/30]
+  21.05  Dorados de Sinaloa       3-4 (0-1)  Atlético La Paz
+  19.05  Leones Negros            4-2 (2-2)  Cimarrones de Sonora
+[Mon Jul/31]
+  19.05  Alebrijes de Oaxaca      1-1 (0-1)  Tapatío
+
+
+Matchday 3
+[Thu Aug/3]
+  19.05  Leones Negros            5-0 (4-0)  Alebrijes de Oaxaca
+[Sat Aug/5]
+  21.05  Cimarrones de Sonora     2-0 (0-0)  Dorados de Sinaloa
+  17.05  Mineros de Zacatecas     5-1 (2-0)  Coyotes de Tlaxcala
+  19.05  Cancún FC                2-1 (0-0)  Correcaminos UAT
+[Sun Aug/6]
+  12.00  Atlante                  2-2 (2-1)  Tepatitlán
+  17.05  Atlético Morelia         1-0 (0-0)  Club Celaya
+  21.05  Atlético La Paz          2-2 (0-1)  Tapatío
+
+
+Matchday 4
+[Thu Aug/10]
+  19.05  Tapatío                  1-1 (1-0)  Club Celaya
+[Fri Aug/11]
+  19.05  Venados FC               1-3 (0-2)  Atlético La Paz
+  17.05  Alebrijes de Oaxaca      1-1 (0-1)  Mineros de Zacatecas
+[Sat Aug/12]
+  19.05  Dorados de Sinaloa       1-0 (0-0)  Cancún FC
+  21.05  Tepatitlán               0-0  Leones Negros
+[Sun Aug/13]
+  17.05  Atlético Morelia         2-0 (0-0)  Correcaminos UAT
+  21.05  Cimarrones de Sonora     0-0  Atlante
+
+
+Matchday 5
+[Tue Aug/15]
+  21.05  Dorados de Sinaloa       4-0 (0-0)  Mineros de Zacatecas
+  19.05  Alebrijes de Oaxaca      2-1 (2-1)  Club Celaya
+[Wed Aug/16]
+  21.05  Correcaminos UAT         2-2 (0-2)  Tapatío
+  17.05  Atlante                  3-0 (0-0)  Atlético La Paz
+[Thu Aug/17]
+  17.05  Leones Negros            4-1 (2-0)  Venados FC
+[Fri Aug/18]
+  17.05  Coyotes de Tlaxcala      1-2 (1-1)  Cimarrones de Sonora
+[Sat Aug/19]
+  19.05  Cancún FC                2-0 (2-0)  Atlético Morelia
+
+
+Matchday 2
+[Sat Aug/19]
+  17.05  Club Celaya              1-1 (1-1)  Tepatitlán
+
+
+Matchday 6
+[Tue Aug/22]
+  17.05  Club Celaya              0-0  Atlante
+  19.05  Atlético La Paz          3-0 (2-0)  Leones Negros
+  21.05  Venados FC               4-3 (0-1)  Correcaminos UAT
+[Wed Aug/23]
+  21.05  Cimarrones de Sonora     4-2 (2-1)  Alebrijes de Oaxaca
+  19.05  Mineros de Zacatecas     4-1 (2-1)  Tepatitlán
+[Thu Aug/24]
+  19.05  Atlético Morelia         4-0 (2-0)  Dorados de Sinaloa
+  17.05  Tapatío                  2-0 (1-0)  Coyotes de Tlaxcala
+
+
+Matchday 7
+[Tue Aug/29]
+  21.05  Correcaminos UAT         7-0 (3-0)  Alebrijes de Oaxaca
+  19.05  Venados FC               2-1 (0-0)  Tapatío
+[Wed Aug/30]
+  17.00  Tepatitlán               3-0 (1-0)  Cancún FC
+  19.05  Coyotes de Tlaxcala      1-2 (0-2)  Club Celaya
+  21.05  Atlético La Paz          2-1 (1-0)  Cimarrones de Sonora
+[Thu Aug/31]
+  21.05  Atlante                  3-0 (2-0)  Dorados de Sinaloa
+[Fri Sep/1]
+  21.05  Leones Negros            0-0  Atlético Morelia
+
+
+Matchday 8
+[Tue Sep/5]
+  19.05  Club Celaya              1-1 (0-1)  Cimarrones de Sonora
+  21.05  Correcaminos UAT         1-0 (1-0)  Atlante
+  17.05  Alebrijes de Oaxaca      2-1 (2-1)  Venados FC
+[Wed Sep/6]
+  19.05  Cancún FC                1-2 (1-0)  Coyotes de Tlaxcala
+[Thu Sep/7]
+  19.05  Tapatío                  1-0 (1-0)  Mineros de Zacatecas
+[Sat Sep/9]
+  21.05  Dorados de Sinaloa       1-2 (1-0)  Tepatitlán
+[Sun Sep/10]
+  19.05  Atlético Morelia         2-0 (1-0)  Atlético La Paz
+
+
+Matchday 9
+[Wed Sep/13]
+  19.05  Mineros de Zacatecas     1-0 (1-0)  Atlante
+  21.05  Atlético La Paz          1-4 (1-2)  Cancún FC
+  17.05  Tepatitlán               2-1 (1-0)  Correcaminos UAT
+[Thu Sep/14]
+  19.05  Leones Negros            4-0 (3-0)  Dorados de Sinaloa
+[Sat Sep/16]
+  19.05  Venados FC               1-0 (0-0)  Club Celaya
+  21.05  Coyotes de Tlaxcala      2-1 (1-0)  Alebrijes de Oaxaca
+[Sun Sep/17]
+  17.05  Atlético Morelia         0-0  Tapatío
+
+
+Matchday 10
+[Tue Sep/19]
+  19.05  Cancún FC                5-2 (2-1)  Cimarrones de Sonora
+  21.05  Alebrijes de Oaxaca      2-2 (1-1)  Atlético La Paz
+  17.05  Club Celaya              2-3 (1-1)  Mineros de Zacatecas
+[Wed Sep/20]
+  19.05  Correcaminos UAT         1-2 (0-1)  Leones Negros
+  17.05  Coyotes de Tlaxcala      2-3 (0-2)  Atlético Morelia
+[Thu Sep/21]
+  21.00  Atlante                  2-0 (2-0)  Venados FC
+[Sun Sep/24]
+  18.00  Tapatío                  2-2 (2-1)  Tepatitlán
+
+
+Matchday 11
+[Tue Sep/26]
+  21.05  Cimarrones de Sonora     3-2 (1-2)  Atlético Morelia
+  19.05  Atlético La Paz          1-0 (0-0)  Coyotes de Tlaxcala
+[Wed Sep/27]
+  19.05  Venados FC               5-1 (2-1)  Tepatitlán
+  21.05  Club Celaya              1-0 (1-0)  Cancún FC
+  17.05  Alebrijes de Oaxaca      4-0 (2-0)  Dorados de Sinaloa
+[Sat Sep/30]
+  17.05  Atlante                  1-1 (1-0)  Tapatío
+[Sun Oct/1]
+  19.00  Leones Negros            3-2 (2-0)  Mineros de Zacatecas
+
+
+Matchday 12
+[Tue Oct/3]
+  21.05  Dorados de Sinaloa       3-1 (0-1)  Coyotes de Tlaxcala
+[Wed Oct/4]
+  21.05  Atlético Morelia         0-0  Alebrijes de Oaxaca
+  19.05  Mineros de Zacatecas     3-0 (1-0)  Venados FC
+[Thu Oct/5]
+  19.05  Cancún FC                2-0 (1-0)  Leones Negros
+  21.05  Tepatitlán               4-0 (1-0)  Atlético La Paz
+  17.05  Tapatío                  1-2 (1-1)  Cimarrones de Sonora
+[Fri Oct/6]
+  17.00  Correcaminos UAT         0-1 (0-1)  Club Celaya
+
+
+Matchday 13
+[Wed Oct/11]
+  19.05  Tapatío                  2-4 (1-3)  Leones Negros
+[Fri Oct/13]
+  21.05  Cimarrones de Sonora     0-1 (0-1)  Correcaminos UAT
+  17.05  Coyotes de Tlaxcala      0-1 (0-0)  Tepatitlán
+[Sat Oct/14]
+  17.05  Alebrijes de Oaxaca      2-5 (0-2)  Cancún FC
+[Sun Oct/15]
+  19.05  Venados FC               4-1 (1-1)  Dorados de Sinaloa
+  21.05  Atlético La Paz          1-4 (1-3)  Mineros de Zacatecas
+  19.05  Atlético Morelia         0-1 (0-0)  Atlante
+
+
+Matchday 14
+[Thu Oct/19]
+  21.05  Venados FC               2-1 (1-1)  Atlético Morelia
+[Tue Oct/24]
+  19.05  Mineros de Zacatecas     2-2 (1-1)  Cimarrones de Sonora
+[Wed Oct/25]
+  21.05  Dorados de Sinaloa       1-4 (0-1)  Club Celaya
+  19.05  Tepatitlán               3-1 (1-0)  Alebrijes de Oaxaca
+[Thu Oct/26]
+  21.05  Correcaminos UAT         1-0 (0-0)  Atlético La Paz
+  19.05  Atlante                  0-1 (0-0)  Cancún FC
+
+
+Matchday 15
+[Sat Oct/28]
+  18.05  Cimarrones de Sonora     4-1 (2-1)  Venados FC
+
+
+Matchday 14
+[Sun Oct/29]
+  17.00  Leones Negros            2-1 (2-1)  Coyotes de Tlaxcala
+
+
+Matchday 15
+[Tue Oct/31]
+  17.05  Alebrijes de Oaxaca      0-3 (0-1)  Atlante
+[Wed Nov/1]
+  19.05  Cancún FC                2-1 (2-0)  Mineros de Zacatecas
+  17.05  Coyotes de Tlaxcala      0-1 (0-0)  Correcaminos UAT
+[Thu Nov/2]
+  19.05  Tapatío                  0-1 (0-1)  Dorados de Sinaloa
+  21.05  Atlético Morelia         1-0 (1-0)  Tepatitlán
+  17.05  Club Celaya              0-0  Leones Negros
+
+
+== Apertura Playoffs
+
+Qual. 1. Runde
+[Thu Nov/9]
+  19.05  Atlético Morelia         4-3 pen. (1-1, 0-0)  Venados FC
+  21.05  Correcaminos UAT         0-1 (0-0)  Atlético La Paz
+
+
+Qual. 2. Runde
+[Sun Nov/12]
+  17.05  Venados FC               1-0 (1-0)  Atlético La Paz
+
+
+Quarterfinals
+[Wed Nov/15]
+  21.05  Cimarrones de Sonora     2-0 (1-0)  Atlante
+  19.05  Atlético Morelia         2-1 (2-1)  Leones Negros
+[Thu Nov/16]
+  21.05  Venados FC               1-0 (0-0)  Cancún FC
+  19.05  Tepatitlán               0-2 (0-1)  Mineros de Zacatecas
+[Sat Nov/18]
+  19.05  Leones Negros            2-0 (2-0)  Atlético Morelia
+  17.05  Atlante                  4-2 (1-1)  Cimarrones de Sonora
+[Sun Nov/19]
+  17.05  Cancún FC                2-1 (0-0)  Venados FC
+  19.05  Mineros de Zacatecas     5-2 (2-0)  Tepatitlán
+
+
+Semifinals
+[Wed Nov/22]
+  19.00  Atlante                  3-1 (1-0)  Leones Negros
+[Thu Nov/23]
+  19.00  Mineros de Zacatecas     1-0 (0-0)  Cancún FC
+[Sat Nov/25]
+  21.05  Leones Negros            0-1 (0-0)  Atlante
+[Sun Nov/26]
+  17.00  Cancún FC                3-2 (3-1)  Mineros de Zacatecas
+
+
+Final
+[Thu Nov/30]
+  19.00  Atlante                  0-0  Cancún FC
+[Sun Dec/3]
+  16.00  Cancún FC                3-0 (2-0)  Atlante
+
+
+== Clausura
+
+Matchday 1
+[Tue Jan/9]
+  19.05  Cimarrones de Sonora     1-1 (1-1)  Leones Negros
+  21.05  Atlético La Paz          1-1 (0-0)  Atlético Morelia
+[Wed Jan/10]
+  19.05  Coyotes de Tlaxcala      1-0 (0-0)  Cancún FC
+  21.05  Tapatío                  0-2 (0-0)  Venados FC
+[Thu Jan/11]
+  21.05  Mineros de Zacatecas     3-0 (1-0)  Correcaminos UAT
+  19.05  Tepatitlán               2-0 (2-0)  Dorados de Sinaloa
+[Sun Jan/14]
+  16.05  Atlante                  2-1 (0-0)  Club Celaya
+
+
+Matchday 2
+[Tue Jan/16]
+  19.05  Cancún FC                3-0 (0-0)  Alebrijes de Oaxaca
+[Wed Jan/17]
+  19.05  Club Celaya              4-2 (2-1)  Atlético La Paz
+  21.05  Dorados de Sinaloa       1-1 (0-0)  Cimarrones de Sonora
+[Thu Jan/18]
+  19.05  Tepatitlán               0-5 (0-2)  Venados FC
+  21.05  Mineros de Zacatecas     0-4 (0-2)  Tapatío
+[Sun Jan/21]
+  17.05  Leones Negros            0-0  Atlante
+
+
+Matchday 3
+[Tue Jan/23]
+  21.05  Atlético La Paz          2-0 (0-0)  Tepatitlán
+  19.05  Alebrijes de Oaxaca      2-2 (0-1)  Cimarrones de Sonora
+[Wed Jan/24]
+  19.05  Coyotes de Tlaxcala      0-1 (0-0)  Dorados de Sinaloa
+  21.05  Venados FC               1-1 (1-1)  Leones Negros
+[Thu Jan/25]
+  19.05  Cancún FC                2-0 (1-0)  Atlante
+  21.05  Club Celaya              2-0 (2-0)  Correcaminos UAT
+[Sun Jan/28]
+  18.05  Atlético Morelia         1-2 (0-1)  Mineros de Zacatecas
+
+
+Matchday 4
+[Tue Jan/30]
+  21.05  Cimarrones de Sonora     1-2 (0-1)  Coyotes de Tlaxcala
+[Wed Jan/31]
+  21.05  Correcaminos UAT         3-1 (1-1)  Cancún FC
+  19.05  Dorados de Sinaloa       2-3 (1-1)  Venados FC
+  17.05  Atlante                  1-2 (1-2)  Alebrijes de Oaxaca
+[Thu Feb/1]
+  21.05  Mineros de Zacatecas     0-1 (0-0)  Leones Negros
+  19.05  Tapatío                  0-2 (0-1)  Atlético La Paz
+
+
+Matchday 5
+[Sun Feb/4]
+  19.05  Venados FC               1-0 (1-0)  Mineros de Zacatecas
+
+
+Matchday 4
+[Sun Feb/4]
+  16.05  Tepatitlán               2-1 (1-0)  Atlético Morelia
+
+
+Matchday 5
+[Tue Feb/6]
+  17.05  Club Celaya              3-1 (1-0)  Dorados de Sinaloa
+  19.05  Alebrijes de Oaxaca      1-0 (1-0)  Correcaminos UAT
+[Wed Feb/7]
+  21.05  Cimarrones de Sonora     1-2 (1-1)  Tapatío
+  19.05  Atlético La Paz          0-0  Atlante
+[Thu Feb/8]
+  19.05  Atlético Morelia         3-1 (2-1)  Coyotes de Tlaxcala
+[Fri Feb/9]
+  17.05  Leones Negros            2-0 (2-0)  Cancún FC
+
+
+Matchday 6
+[Tue Feb/13]
+  21.05  Dorados de Sinaloa       3-0 (2-0)  Correcaminos UAT
+  19.05  Cancún FC                1-1 (1-1)  Club Celaya
+[Wed Feb/14]
+  19.05  Alebrijes de Oaxaca      0-3 (0-1)  Leones Negros
+[Thu Feb/15]
+  21.05  Tepatitlán               1-1 (1-0)  Mineros de Zacatecas
+[Fri Feb/16]
+  19.05  Coyotes de Tlaxcala      2-3 (0-2)  Atlético La Paz
+[Sat Feb/17]
+  17.05  Tapatío                  0-0  Atlético Morelia
+[Sun Feb/18]
+  12.00  Atlante                  2-0 (2-0)  Cimarrones de Sonora
+
+
+Matchday 7
+[Tue Feb/20]
+  19.05  Mineros de Zacatecas     0-2 (0-1)  Cancún FC
+  21.05  Correcaminos UAT         3-1 (2-0)  Atlético Morelia
+[Wed Feb/21]
+  19.05  Coyotes de Tlaxcala      1-0 (0-0)  Venados FC
+  21.05  Cimarrones de Sonora     4-0 (3-0)  Tepatitlán
+[Thu Feb/22]
+  21.05  Atlético La Paz          1-0 (1-0)  Dorados de Sinaloa
+  19.05  Leones Negros            1-0 (1-0)  Tapatío
+[Sun Feb/25]
+  17.05  Club Celaya              2-0 (0-0)  Alebrijes de Oaxaca
+
+
+Matchday 8
+[Tue Feb/27]
+  19.05  Venados FC               1-0 (1-0)  Atlante
+  21.05  Leones Negros            1-1 (0-1)  Correcaminos UAT
+[Wed Feb/28]
+  19.05  Alebrijes de Oaxaca      1-1 (1-0)  Mineros de Zacatecas
+[Thu Feb/29]
+  19.05  Tepatitlán               0-2 (0-1)  Club Celaya
+  21.05  Atlético Morelia         0-1 (0-0)  Cimarrones de Sonora
+
+
+Matchday 2
+[Fri Mar/1]
+  17.00  Correcaminos UAT         1-1 (0-0)  Coyotes de Tlaxcala
+
+
+Matchday 8
+[Sat Mar/2]
+  17.05  Cancún FC                2-2 (0-2)  Atlético La Paz
+
+
+Matchday 9
+[Tue Mar/5]
+  21.05  Club Celaya              0-2 (0-0)  Venados FC
+  19.05  Atlante                  2-0 (2-0)  Coyotes de Tlaxcala
+[Wed Mar/6]
+  19.05  Correcaminos UAT         2-0 (1-0)  Tepatitlán
+  21.05  Dorados de Sinaloa       2-1 (1-1)  Atlético Morelia
+[Thu Mar/7]
+  19.05  Mineros de Zacatecas     3-0 (3-0)  Atlético La Paz
+  21.05  Tapatío                  1-2 (0-1)  Alebrijes de Oaxaca
+[Sun Mar/10]
+  19.05  Cimarrones de Sonora     2-4 (1-1)  Cancún FC
+
+
+Matchday 10
+[Tue Mar/12]
+  21.05  Venados FC               2-1 (1-1)  Alebrijes de Oaxaca
+  19.05  Coyotes de Tlaxcala      0-3 (0-2)  Tapatío
+[Wed Mar/13]
+  21.05  Cimarrones de Sonora     2-2 (1-1)  Mineros de Zacatecas
+  19.05  Tepatitlán               1-2 (1-0)  Atlante
+[Thu Mar/14]
+  21.05  Leones Negros            0-0  Club Celaya
+  19.05  Atlético Morelia         0-1 (0-0)  Cancún FC
+[Sun Mar/17]
+  19.05  Atlético La Paz          1-1 (0-0)  Correcaminos UAT
+
+
+Matchday 11
+[Tue Mar/19]
+  21.05  Alebrijes de Oaxaca      1-1 (1-0)  Coyotes de Tlaxcala
+  19.05  Atlante                  3-1 (2-1)  Mineros de Zacatecas
+  17.05  Cancún FC                2-0 (1-0)  Tepatitlán
+[Wed Mar/20]
+  17.05  Tapatío                  2-2 (0-1)  Correcaminos UAT
+  21.05  Dorados de Sinaloa       1-2 (0-1)  Leones Negros
+  19.05  Venados FC               0-0  Cimarrones de Sonora
+[Thu Mar/21]
+  19.05  Club Celaya              1-2 (1-0)  Atlético Morelia
+
+
+Matchday 12
+[Fri Mar/22]
+  19.05  Atlético La Paz          2-1 (0-0)  Alebrijes de Oaxaca
+[Sat Mar/23]
+  21.05  Coyotes de Tlaxcala      0-4 (0-1)  Leones Negros
+  19.05  Correcaminos UAT         2-1 (2-0)  Venados FC
+  15.00  Tepatitlán               0-4 (0-2)  Tapatío
+  17.00  Mineros de Zacatecas     3-1 (2-0)  Dorados de Sinaloa
+[Sun Mar/24]
+  12.00  Atlante                  0-0  Atlético Morelia
+  19.05  Cimarrones de Sonora     0-1 (0-0)  Club Celaya
+
+
+Matchday 13
+[Tue Mar/26]
+  21.05  Alebrijes de Oaxaca      1-0 (0-0)  Tepatitlán
+  19.05  Cancún FC                1-1 (1-0)  Tapatío
+[Wed Mar/27]
+  21.05  Correcaminos UAT         0-2 (0-1)  Cimarrones de Sonora
+  19.05  Leones Negros            2-4 (0-2)  Atlético La Paz
+[Thu Mar/28]
+  21.05  Dorados de Sinaloa       0-3 (0-2)  Atlante
+  19.05  Atlético Morelia         3-4 (2-1)  Venados FC
+[Fri Mar/29]
+  18.00  Club Celaya              1-1 (1-1)  Coyotes de Tlaxcala
+
+
+Matchday 14
+[Tue Apr/2]
+  21.05  Dorados de Sinaloa       1-3 (0-1)  Alebrijes de Oaxaca
+  17.05  Tapatío                  0-0  Atlante
+  19.05  Cimarrones de Sonora     2-1 (1-0)  Atlético La Paz
+[Wed Apr/3]
+  21.05  Venados FC               2-0 (2-0)  Cancún FC
+  19.05  Mineros de Zacatecas     2-2 (1-2)  Club Celaya
+[Thu Apr/4]
+  19.05  Atlético Morelia         0-2 (0-2)  Leones Negros
+  21.05  Tepatitlán               1-1 (1-1)  Coyotes de Tlaxcala
+
+
+Matchday 8
+[Fri Apr/5]
+  21.05  Dorados de Sinaloa       1-3 (1-2)  Tapatío
+
+
+Matchday 15
+[Tue Apr/9]
+  19.05  Cancún FC                2-2 (1-2)  Dorados de Sinaloa
+  21.05  Atlético La Paz          0-1 (0-1)  Venados FC
+[Wed Apr/10]
+  21.05  Leones Negros            3-2 (3-1)  Tepatitlán
+  19.05  Coyotes de Tlaxcala      0-2 (0-0)  Mineros de Zacatecas
+[Thu Apr/11]
+  19.05  Atlante                  4-0 (3-0)  Correcaminos UAT
+  21.05  Club Celaya              1-2 (0-1)  Tapatío
+[Sat Apr/13]
+  17.05  Alebrijes de Oaxaca      3-3 (1-2)  Atlético Morelia
+
+
+== Clausura Playoffs
+
+Qual. 1. Runde
+[Wed Apr/17]
+  21.00  Atlético La Paz          2-3 (0-3)  Mineros de Zacatecas
+  19.00  Alebrijes de Oaxaca      6-5 pen. (1-1, 0-0)  Cimarrones de Sonora
+
+
+Qual. 2. Runde
+[Sat Apr/20]
+  21.00  Atlético La Paz          3-2 (0-2)  Alebrijes de Oaxaca
+
+
+Quarterfinals
+[Wed Apr/24]
+  19.00  Club Celaya              4-3 (0-2)  Tapatío
+  21.05  Atlético La Paz          3-1 (1-0)  Venados FC
+[Thu Apr/25]
+  19.05  Cancún FC                0-1 (0-0)  Atlante
+  21.05  Mineros de Zacatecas     0-0  Leones Negros
+[Sat Apr/27]
+  19.00  Tapatío                  2-0 (0-0)  Club Celaya
+  17.00  Venados FC               2-3 (1-1)  Atlético La Paz
+[Sun Apr/28]
+  17.00  Atlante                  2-1 (1-0)  Cancún FC
+  19.05  Leones Negros            3-0 (0-0)  Mineros de Zacatecas
+
+
+Semifinals
+[Thu May/2]
+  17.30  Tapatío                  0-3 (0-1)  Atlante
+  19.30  Atlético La Paz          1-1 (0-1)  Leones Negros
+[Sun May/5]
+  18.05  Leones Negros            3-1 (0-0)  Atlético La Paz
+  16.00  Atlante                  5-1 (1-1)  Tapatío
+
+
+Final
+[Wed May/8]
+  19.00  Atlante                  2-0 (0-0)  Leones Negros
+[Sun May/12]
+  17.00  Leones Negros            1-2 (1-1)  Atlante
+
+
+== Campéon
+
+Final
+[Wed May/15]
+  19.00  Cancún FC                1-1 (1-1)  Atlante
+[Sat May/18]
+  18.00  Atlante                  1-3 pen. 0-0 a.e.t. (0-0)  Cancún FC

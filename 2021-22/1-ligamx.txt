@@ -1,0 +1,687 @@
+= Liga MX 2021/22
+
+# Date       Thu Jul/22 2021 - Sun May/29 2022 (311d)
+# Teams      18
+# Matches    342
+# Stages     Apertura (153)  Apertura - Liguilla (18)  Clausura (153)  Clausura - Liguilla (18)
+
+
+== Apertura
+
+Matchday 1
+[Thu Jul/22]
+  21.00  Gallos Blancos           0-0  CF América
+[Fri Jul/23]
+  21.00  FC Juárez                1-3 (1-1)  Deportivo Toluca
+  19.00  Club Necaxa              0-3 (0-2)  Santos Laguna
+[Sat Jul/24]
+  16.00  CF Pachuca               4-0 (0-0)  Club León
+  21.00  Deportivo Guadalajara    1-2 (0-1)  Atlético San Luis
+[Sun Jul/25]
+  19.06  CF Monterrey             1-1 (0-0)  Puebla FC
+  21.06  Club Tijuana             1-2 (0-1)  UANL Tigres
+  12.00  Pumas UNAM               0-0  Atlas Guadalajara
+[Mon Jul/26]
+  20.00  Cruz Azul                0-2 (0-1)  Mazatlán FC
+
+
+Matchday 2
+[Fri Jul/30]
+  19.00  Mazatlán FC              2-1 (1-1)  CF Pachuca
+  21.05  Puebla FC                0-2 (0-0)  Deportivo Guadalajara
+[Sat Jul/31]
+  19.00  CF América               2-1 (1-0)  Club Necaxa
+  21.00  CF Monterrey             2-0 (1-0)  Pumas UNAM
+  21.05  Atlas Guadalajara        2-0 (0-0)  FC Juárez
+  17.00  Club León                2-1 (1-0)  Club Tijuana
+[Sun Aug/1]
+  18.00  Santos Laguna            1-1 (0-0)  Cruz Azul
+  12.00  Deportivo Toluca         3-1 (1-1)  UANL Tigres
+[Mon Aug/2]
+  21.00  Atlético San Luis        1-1 (1-0)  Gallos Blancos
+
+
+Matchday 3
+[Thu Aug/5]
+  21.05  Gallos Blancos           0-1 (0-1)  Club León
+[Fri Aug/6]
+  19.00  Mazatlán FC              1-1 (1-1)  CF Monterrey
+  21.05  Club Necaxa              1-2 (1-1)  Cruz Azul
+         Club Tijuana             0-2 (0-1)  Deportivo Toluca
+[Sat Aug/7]
+  19.00  CF América               2-0 (1-0)  Puebla FC
+  21.00  UANL Tigres              1-1 (0-1)  Santos Laguna
+  17.00  Deportivo Guadalajara    2-2 (1-1)  FC Juárez
+[Sun Aug/8]
+  12.00  Pumas UNAM               1-3 (1-2)  Atlético San Luis
+[Mon Aug/9]
+  21.00  CF Pachuca               0-1 (0-1)  Atlas Guadalajara
+
+
+Matchday 4
+[Thu Aug/12]
+  21.00  Atlético San Luis        0-2 (0-1)  Club Necaxa
+[Fri Aug/13]
+  21.00  FC Juárez                1-1 (1-1)  Club Tijuana
+  19.00  Puebla FC                1-1 (1-0)  UANL Tigres
+[Sat Aug/14]
+  17.00  Pumas UNAM               0-0  Gallos Blancos
+  19.00  Club León                3-0 (1-0)  Mazatlán FC
+  21.00  Cruz Azul                4-0 (3-0)  Deportivo Toluca
+  21.06  CF Monterrey             3-1 (1-0)  CF Pachuca
+[Sun Aug/15]
+  19.06  Santos Laguna            0-0  Deportivo Guadalajara
+  17.00  Atlas Guadalajara        0-1 (0-0)  CF América
+
+
+Matchday 5
+[Tue Aug/17]
+  19.00  UANL Tigres              3-0 (1-0)  Gallos Blancos
+  21.00  Club Necaxa              3-0 (1-0)  Pumas UNAM
+  21.06  Club Tijuana             1-1 (1-0)  Puebla FC
+  17.00  Deportivo Toluca         2-2 (2-2)  Mazatlán FC
+[Wed Aug/18]
+  19.00  Cruz Azul                1-1 (0-0)  CF Monterrey
+         Santos Laguna            1-1 (0-1)  Atlas Guadalajara
+  21.00  Deportivo Guadalajara    0-3 (0-1)  Club León
+         FC Juárez                1-2 (1-1)  CF América
+
+
+Matchday 6
+[Fri Aug/20]
+  21.00  Mazatlán FC              0-3 (0-0)  UANL Tigres
+[Sat Aug/21]
+  17.00  Atlas Guadalajara        0-0  Deportivo Toluca
+  19.00  Club León                1-1 (0-1)  Santos Laguna
+  21.00  Atlético San Luis        0-0  Cruz Azul
+  21.36  CF Monterrey             0-0  Deportivo Guadalajara
+[Sun Aug/22]
+  19.00  Club Necaxa              1-0 (0-0)  FC Juárez
+  12.00  Pumas UNAM               2-0 (0-0)  Puebla FC
+  17.00  CF América               2-0 (0-0)  Club Tijuana
+  21.00  Gallos Blancos           0-2 (0-1)  CF Pachuca
+
+
+Matchday 7
+[Fri Aug/27]
+  19.00  Mazatlán FC              2-2 (1-1)  Atlético San Luis
+  21.00  Puebla FC                1-0 (0-0)  Gallos Blancos
+  21.05  Club Tijuana             2-2 (1-2)  CF Monterrey
+[Sat Aug/28]
+  21.00  Club León                1-1 (1-1)  CF América
+  17.00  Deportivo Guadalajara    2-1 (1-0)  Club Necaxa
+  19.00  UANL Tigres              1-1 (1-0)  Atlas Guadalajara
+[Sun Aug/29]
+  20.00  Cruz Azul                1-1 (0-1)  CF Pachuca
+  12.00  Deportivo Toluca         2-1 (1-1)  Pumas UNAM
+  18.00  Santos Laguna            2-0 (0-0)  FC Juárez
+
+
+Matchday 8
+[Fri Sep/10]
+  19.00  Puebla FC                2-2 (0-1)  Atlético San Luis
+  21.00  FC Juárez                2-1 (2-1)  Cruz Azul
+  21.06  Club Tijuana             2-1 (1-0)  Santos Laguna
+[Sat Sep/11]
+  17.00  Atlas Guadalajara        2-1 (0-1)  CF Monterrey
+  19.00  UANL Tigres              2-2 (1-2)  Club León
+  21.00  CF América               2-0 (1-0)  Mazatlán FC
+[Sun Sep/12]
+  19.00  Gallos Blancos           3-0 (2-0)  Club Necaxa
+  17.00  Pumas UNAM               0-0  Deportivo Guadalajara
+[Mon Sep/13]
+  21.00  CF Pachuca               1-2 (1-1)  Deportivo Toluca
+
+
+Matchday 9
+[Thu Sep/16]
+  19.00  Atlético San Luis        4-1 (3-1)  Club Tijuana
+[Fri Sep/17]
+  21.00  Club Necaxa              0-3 (0-2)  Atlas Guadalajara
+[Sat Sep/18]
+  21.00  Deportivo Guadalajara    1-0 (0-0)  CF Pachuca
+  17.00  Club León                0-1 (0-0)  FC Juárez
+  19.00  Deportivo Toluca         3-1 (2-1)  CF América
+  21.00  Mazatlán FC              2-2 (1-0)  Pumas UNAM
+[Sun Sep/19]
+  21.06  Santos Laguna            1-1 (0-0)  Puebla FC
+  19.00  Cruz Azul                2-0 (1-0)  Gallos Blancos
+  19.06  CF Monterrey             2-0 (1-0)  UANL Tigres
+
+
+Matchday 14
+[Tue Sep/21]
+  21.00  FC Juárez                1-0 (1-0)  Atlético San Luis
+
+
+Matchday 11
+[Wed Sep/22]
+  19.06  CF Monterrey             2-0 (1-0)  Deportivo Toluca
+
+
+Matchday 10
+[Thu Sep/23]
+  21.00  CF Pachuca               1-0 (1-0)  Club Necaxa
+[Fri Sep/24]
+  21.06  Club Tijuana             0-0  Mazatlán FC
+  20.00  Puebla FC                1-1 (1-1)  Cruz Azul
+[Sat Sep/25]
+  21.00  CF América               0-0  Deportivo Guadalajara
+  19.00  UANL Tigres              0-0  Pumas UNAM
+  17.00  Atlas Guadalajara        2-0 (1-0)  Club León
+[Sun Sep/26]
+  12.00  Deportivo Toluca         1-2 (1-2)  Atlético San Luis
+  19.06  Santos Laguna            1-2 (0-0)  CF Monterrey
+
+
+Matchday 11
+[Tue Sep/28]
+  17.00  Club Necaxa              3-0 (0-0)  Club Tijuana
+  19.00  Mazatlán FC              3-1 (2-0)  FC Juárez
+  21.00  Atlas Guadalajara        0-1 (0-1)  Puebla FC
+  21.05  CF Pachuca               1-1 (1-1)  CF América
+[Wed Sep/29]
+  21.15  Gallos Blancos           1-0 (0-0)  Deportivo Guadalajara
+  17.00  Atlético San Luis        0-3 (0-1)  UANL Tigres
+
+
+Matchday 12
+[Fri Oct/1]
+  19.00  Puebla FC                1-2 (1-1)  CF Pachuca
+  21.00  FC Juárez                3-1 (2-1)  CF Monterrey
+[Sat Oct/2]
+  17.00  Club León                0-0  Atlético San Luis
+  19.06  Santos Laguna            1-0 (1-0)  Mazatlán FC
+  21.00  Deportivo Guadalajara    0-1 (0-1)  Atlas Guadalajara
+[Sun Oct/3]
+  17.00  CF América               2-0 (1-0)  Pumas UNAM
+  19.00  UANL Tigres              0-0  Club Necaxa
+  21.06  Club Tijuana             0-1 (0-1)  Cruz Azul
+  12.00  Deportivo Toluca         1-1 (0-0)  Gallos Blancos
+
+
+Matchday 10
+[Fri Oct/8]
+  19.00  FC Juárez                0-0  Gallos Blancos
+
+
+Matchday 13
+[Thu Oct/14]
+  20.00  Gallos Blancos           1-1 (0-1)  Club Tijuana
+[Fri Oct/15]
+  21.00  Mazatlán FC              1-0 (1-0)  Atlas Guadalajara
+  19.00  Club Necaxa              0-1 (0-0)  Puebla FC
+[Sat Oct/16]
+  21.00  Cruz Azul                1-1 (1-1)  UANL Tigres
+  19.00  Atlético San Luis        0-1 (0-0)  CF América
+  17.00  CF Monterrey             0-1 (0-1)  Club León
+  19.00  CF Pachuca               1-1 (0-0)  Santos Laguna
+[Sun Oct/17]
+  12.00  Pumas UNAM               1-0 (0-0)  FC Juárez
+  17.00  Deportivo Guadalajara    2-0 (1-0)  Deportivo Toluca
+
+
+Matchday 14
+[Tue Oct/19]
+  21.05  Atlas Guadalajara        0-0  Cruz Azul
+  19.05  CF América               2-1 (0-0)  Santos Laguna
+  17.00  Gallos Blancos           1-0 (1-0)  CF Monterrey
+  19.00  Puebla FC                2-0 (0-0)  Mazatlán FC
+[Wed Oct/20]
+  21.06  Club Tijuana             0-0  Deportivo Guadalajara
+  21.00  UANL Tigres              3-0 (2-0)  CF Pachuca
+  19.00  Club León                1-2 (0-1)  Pumas UNAM
+         Deportivo Toluca         1-1 (0-0)  Club Necaxa
+
+
+Matchday 15
+[Fri Oct/22]
+  21.00  Mazatlán FC              2-1 (0-1)  Gallos Blancos
+[Sat Oct/23]
+  21.00  Deportivo Guadalajara    1-1 (0-1)  Cruz Azul
+  19.00  CF América               1-0 (0-0)  UANL Tigres
+  17.06  CF Monterrey             0-1 (0-0)  Club Necaxa
+  17.00  Puebla FC                0-1 (0-0)  Club León
+[Sun Oct/24]
+  21.00  CF Pachuca               1-1 (0-1)  FC Juárez
+  19.06  Santos Laguna            2-2 (1-0)  Deportivo Toluca
+  12.00  Pumas UNAM               3-1 (1-0)  Club Tijuana
+  19.00  Atlético San Luis        2-6 (0-4)  Atlas Guadalajara
+
+
+Matchday 16
+[Thu Oct/28]
+  19.00  Atlas Guadalajara        0-2 (0-1)  Club Tijuana
+[Fri Oct/29]
+  21.00  FC Juárez                0-2 (0-0)  Puebla FC
+  19.00  Club Necaxa              2-1 (1-0)  Mazatlán FC
+[Sat Oct/30]
+  19.06  CF Pachuca               1-1 (0-1)  Pumas UNAM
+  17.00  Gallos Blancos           2-3 (0-2)  Santos Laguna
+  21.10  UANL Tigres              2-1 (1-0)  Deportivo Guadalajara
+[Sun Oct/31]
+  12.00  Deportivo Toluca         0-0  Club León
+  19.05  Atlético San Luis        1-1 (0-1)  CF Monterrey
+  17.05  Cruz Azul                2-1 (1-0)  CF América
+
+
+Matchday 5
+[Wed Nov/3]
+  19.00  CF Pachuca               0-0  Atlético San Luis
+
+
+Matchday 11
+[Wed Nov/3]
+  21.00  Cruz Azul                0-1 (0-1)  Club León
+
+
+Matchday 17
+[Thu Nov/4]
+  21.00  Atlas Guadalajara        2-0 (0-0)  Gallos Blancos
+
+
+Matchday 11
+[Thu Nov/4]
+  19.00  Pumas UNAM               0-3 (0-1)  Santos Laguna
+
+
+Matchday 17
+[Fri Nov/5]
+  21.00  Mazatlán FC              0-1 (0-0)  Deportivo Guadalajara
+  19.00  Puebla FC                1-0 (0-0)  Deportivo Toluca
+[Sat Nov/6]
+  17.00  Club León                3-0 (1-0)  Club Necaxa
+  19.00  CF América               0-0  CF Monterrey
+  21.00  UANL Tigres              3-0 (1-0)  FC Juárez
+  21.06  Club Tijuana             3-2 (1-1)  CF Pachuca
+[Sun Nov/7]
+  19.06  Santos Laguna            0-0  Atlético San Luis
+  17.00  Pumas UNAM               4-3 (1-3)  Cruz Azul
+
+
+== Apertura - Liguilla
+
+Recalificación
+[Sat Nov/20]
+  21.00  Puebla FC                6-5 pen. (2-2, 1-1)  Deportivo Guadalajara
+  19.00  Santos Laguna            2-0 (0-0)  Atlético San Luis
+[Sun Nov/21]
+  17.00  Deportivo Toluca         1-2 (0-1)  Pumas UNAM
+  19.15  Cruz Azul                1-4 (1-2)  CF Monterrey
+
+
+Quarterfinals
+[Wed Nov/24]
+  21.05  CF Monterrey             0-0  Atlas Guadalajara
+  19.00  Pumas UNAM               0-0  CF América
+[Thu Nov/25]
+  21.05  Santos Laguna            2-1 (2-0)  UANL Tigres
+  19.00  Puebla FC                2-1 (1-1)  Club León
+[Sat Nov/27]
+  19.00  CF América               1-3 (1-2)  Pumas UNAM
+  21.05  Atlas Guadalajara        1-1 (1-0)  CF Monterrey
+[Sun Nov/28]
+  20.05  Club León                2-0 (1-0)  Puebla FC
+  18.00  UANL Tigres              1-0 (0-0)  Santos Laguna
+
+
+Semifinals
+[Wed Dec/1]
+  21.00  UANL Tigres              2-1 (0-0)  Club León
+[Thu Dec/2]
+  21.00  Pumas UNAM               0-1 (0-1)  Atlas Guadalajara
+[Sat Dec/4]
+  21.00  Club León                2-1 (1-1)  UANL Tigres
+[Sun Dec/5]
+  19.00  Atlas Guadalajara        0-1 (0-0)  Pumas UNAM
+
+
+Final
+[Thu Dec/9]
+  21.00  Club León                3-2 (1-1)  Atlas Guadalajara
+[Sun Dec/12]
+  20.15  Atlas Guadalajara        4-3 pen. 1-0 a.e.t. (1-0, 0-0)  Club León
+
+
+== Clausura
+
+Matchday 1
+[Thu Jan/6]
+  21.00  Atlético San Luis        0-2 (0-0)  CF Pachuca
+[Fri Jan/7]
+  21.00  Puebla FC                1-1 (1-1)  CF América
+  19.00  FC Juárez                2-1 (1-0)  Club Necaxa
+[Sat Jan/8]
+  21.00  Cruz Azul                2-0 (1-0)  Club Tijuana
+  19.06  CF Monterrey             0-0  Gallos Blancos
+[Sun Jan/9]
+  18.00  Deportivo Guadalajara    3-0 (3-0)  Mazatlán FC
+[Mon Jan/10]
+  21.00  Pumas UNAM               5-0 (1-0)  Deportivo Toluca
+[Wed Jan/12]
+  20.06  Santos Laguna            1-1 (0-0)  UANL Tigres
+
+
+Matchday 2
+[Fri Jan/14]
+  21.00  Club Necaxa              0-4 (0-3)  CF Monterrey
+  19.00  Gallos Blancos           1-3 (1-2)  Pumas UNAM
+[Sat Jan/15]
+  17.00  Atlas Guadalajara        1-0 (0-0)  Atlético San Luis
+  19.00  UANL Tigres              0-2 (0-2)  Puebla FC
+  21.00  Cruz Azul                1-0 (1-0)  FC Juárez
+  21.06  Club Tijuana             1-1 (0-1)  Club León
+[Sun Jan/16]
+  12.00  Deportivo Toluca         3-1 (1-1)  Santos Laguna
+  17.00  CF Pachuca               2-1 (2-0)  Deportivo Guadalajara
+
+
+Matchday 1
+[Wed Jan/19]
+  21.00  Club León                1-1 (1-0)  Atlas Guadalajara
+
+
+Matchday 3
+[Thu Jan/20]
+  21.00  Atlético San Luis        0-1 (0-0)  FC Juárez
+[Fri Jan/21]
+  21.00  Mazatlán FC              1-2 (1-0)  Deportivo Toluca
+[Sat Jan/22]
+  17.00  Deportivo Guadalajara    1-1 (1-1)  Gallos Blancos
+  19.00  Club León                2-1 (1-1)  CF Pachuca
+  21.00  CF América               0-2 (0-0)  Atlas Guadalajara
+  21.06  CF Monterrey             2-2 (0-1)  Cruz Azul
+[Sun Jan/23]
+  12.00  Pumas UNAM               1-2 (1-0)  UANL Tigres
+  19.00  Santos Laguna            1-4 (1-1)  Club Necaxa
+[Fri Jan/28]
+  21.00  Puebla FC                3-1 (0-1)  Club Tijuana
+
+
+Matchday 4
+[Sat Feb/5]
+  19.00  CF América               2-3 (0-1)  Atlético San Luis
+  17.00  Club Necaxa              1-3 (0-2)  CF Pachuca
+  21.06  Club Tijuana             1-0 (0-0)  Pumas UNAM
+[Sun Feb/6]
+  16.00  Gallos Blancos           0-2 (0-2)  Puebla FC
+  18.00  Atlas Guadalajara        2-1 (2-0)  Santos Laguna
+  20.00  UANL Tigres              4-3 (2-0)  Mazatlán FC
+[Mon Feb/7]
+  21.05  Club León                0-1 (0-1)  Cruz Azul
+[Wed Feb/9]
+  19.00  FC Juárez                1-3 (1-1)  Deportivo Guadalajara
+
+
+Matchday 5
+[Fri Feb/11]
+  21.00  Puebla FC                1-1 (0-0)  Atlas Guadalajara
+  19.00  Mazatlán FC              2-0 (1-0)  Club Tijuana
+[Sat Feb/12]
+  21.00  Santos Laguna            2-3 (2-2)  CF América
+  19.00  Cruz Azul                1-2 (1-0)  Club Necaxa
+  17.00  Atlético San Luis        0-1 (0-1)  Deportivo Toluca
+         Deportivo Guadalajara    1-3 (0-2)  UANL Tigres
+[Sun Feb/13]
+  12.00  Pumas UNAM               2-1 (2-1)  Club León
+[Mon Feb/14]
+  21.00  CF Pachuca               2-2 (2-1)  Gallos Blancos
+
+
+Matchday 2
+[Wed Feb/16]
+  19.00  Mazatlán FC              2-1 (2-0)  CF América
+
+
+Matchday 6
+[Fri Feb/18]
+  21.00  FC Juárez                0-0  Santos Laguna
+  19.00  Puebla FC                1-0 (1-0)  CF Monterrey
+  21.06  Club Tijuana             1-1 (0-0)  Club Necaxa
+[Sat Feb/19]
+  21.00  Club León                2-1 (1-0)  Deportivo Guadalajara
+  19.00  UANL Tigres              2-1 (0-0)  Atlético San Luis
+  17.00  Gallos Blancos           2-0 (0-0)  Mazatlán FC
+[Sun Feb/20]
+  18.00  Deportivo Toluca         1-4 (1-1)  Cruz Azul
+  16.00  CF América               1-3 (0-2)  CF Pachuca
+  20.00  Atlas Guadalajara        0-0  Pumas UNAM
+
+
+Matchday 7
+[Thu Feb/24]
+  19.00  CF Pachuca               3-1 (2-1)  Mazatlán FC
+  21.05  Gallos Blancos           1-1 (1-0)  Deportivo Toluca
+[Fri Feb/25]
+  21.00  FC Juárez                2-3 (0-3)  UANL Tigres
+  21.06  Club Tijuana             2-0 (2-0)  Atlas Guadalajara
+  19.00  Club Necaxa              0-1 (0-1)  Club León
+[Sat Feb/26]
+  21.00  Pumas UNAM               0-0  CF América
+  19.00  Deportivo Guadalajara    2-3 (2-0)  Puebla FC
+  17.06  CF Monterrey             0-2 (0-1)  Atlético San Luis
+[Sun Feb/27]
+  19.00  Cruz Azul                1-2 (0-1)  Santos Laguna
+
+
+Matchday 8
+[Tue Mar/1]
+  21.00  Club León                0-0  CF Monterrey
+  19.00  Deportivo Toluca         1-2 (1-1)  Club Tijuana
+         Puebla FC                1-1 (0-0)  FC Juárez
+  21.00  CF América               1-1 (1-0)  Gallos Blancos
+         Mazatlán FC              0-0  Club Necaxa
+[Wed Mar/2]
+  21.00  Santos Laguna            3-2 (1-1)  Pumas UNAM
+  19.00  UANL Tigres              2-2 (2-1)  Cruz Azul
+         Atlas Guadalajara        0-1 (0-0)  CF Pachuca
+  21.00  Atlético San Luis        2-2 (2-0)  Deportivo Guadalajara
+
+
+Matchday 9
+[Fri Mar/4]
+  19.00  Club Necaxa              0-1 (0-1)  Deportivo Toluca
+  21.00  FC Juárez                0-1 (0-0)  Club León
+[Sat Mar/5]
+  21.00  Deportivo Guadalajara    1-0 (0-0)  Santos Laguna
+         Cruz Azul                1-3 (1-2)  Puebla FC
+  17.00  Gallos Blancos           0-3  Atlas Guadalajara        [awarded]
+  19.06  CF Monterrey             2-1 (1-1)  CF América
+
+
+Matchday 10
+[Fri Mar/11]
+  21.00  FC Juárez                1-2 (0-1)  Atlas Guadalajara
+  19.00  Club Necaxa              1-0 (1-0)  Gallos Blancos
+  21.06  CF Monterrey             2-1 (2-0)  Mazatlán FC
+[Sat Mar/12]
+  19.00  Cruz Azul                2-1 (1-1)  Pumas UNAM
+  21.00  Deportivo Guadalajara    0-0  CF América
+  17.00  Club León                0-3 (0-2)  UANL Tigres
+[Sun Mar/13]
+  19.00  Santos Laguna            4-0 (1-0)  Club Tijuana
+  17.00  Atlético San Luis        2-1 (1-0)  Puebla FC
+  12.00  Deportivo Toluca         0-3 (0-1)  CF Pachuca
+
+
+Matchday 5
+[Tue Mar/15]
+  21.06  CF Monterrey             3-0 (0-0)  FC Juárez
+
+
+Matchday 11
+[Thu Mar/17]
+  21.05  Gallos Blancos           2-1 (0-0)  Atlético San Luis
+[Fri Mar/18]
+  21.00  Puebla FC                2-2 (0-0)  Santos Laguna
+[Sat Mar/19]
+  19.00  UANL Tigres              2-0 (0-0)  CF Monterrey
+  21.00  CF Pachuca               1-0 (1-0)  Cruz Azul
+  17.00  Pumas UNAM               1-3 (0-2)  Club Necaxa
+[Sun Mar/20]
+  21.00  Mazatlán FC              1-2 (0-2)  Club León
+  21.06  Club Tijuana             1-0 (0-0)  FC Juárez
+  19.00  Atlas Guadalajara        1-1 (0-0)  Deportivo Guadalajara
+  17.00  CF América               3-0 (3-0)  Deportivo Toluca
+
+
+Matchday 9
+[Sat Mar/26]
+  17.00  Pumas UNAM               1-1 (0-0)  Mazatlán FC
+
+
+Matchday 12
+[Fri Apr/1]
+  20.00  Atlético San Luis        1-0 (0-0)  Mazatlán FC
+[Sat Apr/2]
+  21.00  FC Juárez                0-1 (0-0)  Pumas UNAM
+  19.00  Club Necaxa              0-1 (0-0)  CF América
+  17.00  Cruz Azul                1-0 (1-0)  Atlas Guadalajara
+[Sun Apr/3]
+  19.00  Santos Laguna            3-1 (1-0)  CF Pachuca
+  12.00  Deportivo Toluca         2-1 (2-1)  Puebla FC
+  17.00  Club León                1-1 (0-1)  Gallos Blancos
+  19.00  UANL Tigres              2-0 (0-0)  Club Tijuana
+
+
+Matchday 9
+[Wed Apr/6]
+  21.06  Club Tijuana             1-1 (0-0)  Atlético San Luis
+
+
+Matchday 4
+[Wed Apr/6]
+  19.00  Deportivo Toluca         2-2 (1-2)  CF Monterrey
+
+
+Matchday 9
+[Thu Apr/7]
+  19.00  CF Pachuca               2-1 (0-0)  UANL Tigres
+
+
+Matchday 13
+[Thu Apr/7]
+  21.00  Atlas Guadalajara        2-1 (1-0)  Club Necaxa
+[Fri Apr/8]
+  19.00  Puebla FC                2-2 (2-1)  Pumas UNAM
+  21.00  Mazatlán FC              1-1 (1-0)  Cruz Azul
+[Sat Apr/9]
+  17.00  Atlético San Luis        2-0 (1-0)  Club León
+  21.00  CF América               3-0 (2-0)  FC Juárez
+  19.06  CF Monterrey             1-0 (0-0)  Santos Laguna
+  19.00  Deportivo Toluca         1-1 (0-0)  Deportivo Guadalajara
+[Sun Apr/10]
+  19.00  Gallos Blancos           0-1 (0-0)  UANL Tigres
+[Mon Apr/11]
+  21.00  CF Pachuca               0-0  Club Tijuana
+
+
+Matchday 12
+[Wed Apr/13]
+  20.05  Deportivo Guadalajara    1-3 (1-1)  CF Monterrey
+
+
+Matchday 14
+[Thu Apr/14]
+  21.00  Atlas Guadalajara        1-2 (0-2)  Mazatlán FC
+[Fri Apr/15]
+  21.00  FC Juárez                1-2 (1-1)  CF Pachuca
+  21.06  Club Tijuana             1-3 (1-2)  CF América
+  19.00  Club Necaxa              4-2 (3-1)  Atlético San Luis
+[Sat Apr/16]
+  19.00  Santos Laguna            1-1 (0-0)  Gallos Blancos
+         UANL Tigres              3-0 (0-0)  Deportivo Toluca
+  21.00  Cruz Azul                0-1 (0-0)  Deportivo Guadalajara
+  17.00  Club León                0-1 (0-1)  Puebla FC
+[Sun Apr/17]
+  12.00  Pumas UNAM               2-0 (0-0)  CF Monterrey
+
+
+Matchday 15
+[Tue Apr/19]
+  19.00  CF Pachuca               1-0 (1-0)  Puebla FC
+         Club Necaxa              2-0 (2-0)  UANL Tigres
+  21.00  Deportivo Guadalajara    2-1 (1-1)  Club Tijuana
+         Deportivo Toluca         0-1 (0-0)  FC Juárez
+         Mazatlán FC              1-0 (1-0)  Santos Laguna
+[Wed Apr/20]
+  21.00  CF América               2-0 (1-0)  Club León
+  21.06  CF Monterrey             0-0  Atlas Guadalajara
+  19.00  Atlético San Luis        2-0 (1-0)  Pumas UNAM
+[Thu Apr/21]
+  21.00  Gallos Blancos           0-1 (0-0)  Cruz Azul
+
+
+Matchday 16
+[Fri Apr/22]
+  19.00  Puebla FC                0-1 (0-0)  Club Necaxa
+  21.00  FC Juárez                0-2 (0-1)  Mazatlán FC
+[Sat Apr/23]
+  19.00  UANL Tigres              0-2 (0-1)  CF América
+  21.00  Deportivo Guadalajara    3-1 (2-0)  Pumas UNAM
+  17.00  CF Pachuca               3-0 (1-0)  CF Monterrey
+[Sun Apr/24]
+  12.00  Deportivo Toluca         2-4 (1-2)  Atlas Guadalajara
+  17.00  Cruz Azul                0-1 (0-1)  Atlético San Luis
+  19.00  Santos Laguna            1-1 (0-0)  Club León
+  21.06  Club Tijuana             2-2 (2-0)  Gallos Blancos
+
+
+Matchday 17
+[Fri Apr/29]
+  21.05  Mazatlán FC              2-1 (0-0)  Puebla FC
+  19.00  Club Necaxa              0-1 (0-0)  Deportivo Guadalajara
+[Sat Apr/30]
+  19.00  Atlas Guadalajara        1-1 (0-0)  UANL Tigres
+  19.06  CF Monterrey             2-0 (1-0)  Club Tijuana
+  21.00  CF América               0-0  Cruz Azul
+  17.00  Gallos Blancos           4-0 (2-0)  FC Juárez
+[Sun May/1]
+  12.00  Pumas UNAM               2-0 (0-0)  CF Pachuca
+  16.00  Atlético San Luis        1-3 (0-0)  Santos Laguna
+  20.06  Club León                4-4 (3-3)  Deportivo Toluca
+
+
+== Clausura - Liguilla
+
+Recalificación
+[Sat May/7]
+  20.00  CF Monterrey             1-3 pen. (2-2, 1-0)  Atlético San Luis
+  17.45  Cruz Azul                3-1 pen. 3-1 a.e.t. (1-1, 0-0)  Club Necaxa
+[Sun May/8]
+  19.15  Deportivo Guadalajara    4-1 (1-1)  Pumas UNAM
+  17.00  Puebla FC                3-1 pen. (2-2, 2-1)  Mazatlán FC
+
+
+Quarterfinals
+[Tue May/10]
+  21.05  Puebla FC                1-1 (0-0)  CF América
+[Wed May/11]
+  19.00  Atlético San Luis        2-2 (1-1)  CF Pachuca
+[Thu May/12]
+  21.05  Deportivo Guadalajara    1-2 (0-2)  Atlas Guadalajara
+  19.00  Cruz Azul                0-1 (0-1)  UANL Tigres
+[Sat May/14]
+  18.00  CF América               3-2 (1-1)  Puebla FC
+  20.05  CF Pachuca               3-2 (0-0)  Atlético San Luis
+[Sun May/15]
+  20.05  UANL Tigres              0-1 (0-1)  Cruz Azul
+  18.00  Atlas Guadalajara        1-1 (1-0)  Deportivo Guadalajara
+
+
+Semifinals
+[Wed May/18]
+  21.00  Atlas Guadalajara        3-0 (1-0)  UANL Tigres
+[Thu May/19]
+  20.00  CF América               1-1 (0-0)  CF Pachuca
+[Sat May/21]
+  20.00  UANL Tigres              4-2 (0-1)  Atlas Guadalajara
+[Sun May/22]
+  20.06  CF Pachuca               3-0 (2-0)  CF América
+
+
+Final
+[Thu May/26]
+  21.00  Atlas Guadalajara        2-0 (1-0)  CF Pachuca
+[Sun May/29]
+  20.10  CF Pachuca               2-1 (2-1)  Atlas Guadalajara
