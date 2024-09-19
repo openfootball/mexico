@@ -295,13 +295,13 @@ Matchday 17
 
 == Apertura - Liguilla
 
-Qual. 1. Runde
+Play-in round 1
 [Thu Nov/23]
   21.10  Santos Laguna            2-1 (1-0)  Mazatlán FC
   19.00  Atlético San Luis        3-2 (2-1)  Club León
 
 
-Qual. 2. Runde
+Play-in round 2
 [Sun Nov/26]
   20.06  Club León                3-2 (2-0)  Santos Laguna
 
@@ -619,13 +619,13 @@ Matchday 17
 
 == Clausura - Liguilla
 
-Qual. 1. Runde
+Play-in round 1
 [Thu May/2]
   21.15  CF Pachuca               3-5 pen. (0-0)  Pumas UNAM
   19.00  Club Necaxa              3-2 pen. (1-1, 0-0)  Gallos Blancos
 
 
-Qual. 2. Runde
+Play-in round 2
 [Sun May/5]
   20.05  CF Pachuca               2-1 (0-0)  Club Necaxa
 
