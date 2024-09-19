@@ -127,29 +127,29 @@ Matchday 7
 
 Matchday 8
 [Tue Sep/17]
-  19.00  CF América               -  Atlas Guadalajara
-  21.00  Gallos Blancos           -  UANL Tigres
-  21.05  Pumas UNAM               -  Puebla FC
-  19.00  Atlético San Luis        -  Cruz Azul
-         CF Pachuca               -  Deportivo Toluca
+  19.00  CF América               3-0 (1-0)  Atlas Guadalajara
+  21.05  Pumas UNAM               1-0 (0-0)  Puebla FC
+  21.10  Gallos Blancos           1-0 (1-0)  UANL Tigres
+  19.00  Atlético San Luis        3-1 (2-1)  Cruz Azul
+         CF Pachuca               2-2 (0-1)  Deportivo Toluca
 [Wed Sep/18]
-  19.05  Deportivo Guadalajara    -  Club León
-  20.00  Mazatlán FC              -  Club Necaxa
-  21.00  CF Monterrey             -  FC Juárez
+  19.05  Deportivo Guadalajara    2-0 (1-0)  Club León
+  20.00  Mazatlán FC              0-0  Club Necaxa
+  21.00  CF Monterrey             3-2 (1-0)  FC Juárez
 
 
 Matchday 9
 [Fri Sep/20]
   19.00  Atlas Guadalajara        -  Gallos Blancos
-  20.00  Puebla FC                -  CF Pachuca
+         Puebla FC                -  CF Pachuca
 [Sat Sep/21]
   21.05  Cruz Azul                -  Deportivo Guadalajara
   17.00  Club León                -  Atlético San Luis
   19.00  Club Necaxa              -  CF América
          CF Monterrey             -  Mazatlán FC
 [Sun Sep/22]
+  19.10  FC Juárez                -  UANL Tigres
   19.05  Santos Laguna            -  Deportivo Toluca
-  19.00  FC Juárez                -  UANL Tigres
   17.00  Pumas UNAM               -  Club Tijuana
 
 

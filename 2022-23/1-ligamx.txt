@@ -300,7 +300,7 @@ Matchday 17
 
 == Apertura - Liguilla
 
-Recalificación
+Reclassification
 [Sat Oct/8]
   19.00  UANL Tigres              2-0 (0-0)  Club Necaxa
   21.15  Cruz Azul                1-0 (0-0)  Club León
@@ -627,7 +627,7 @@ Matchday 17
 
 == Clausura - Liguilla
 
-Recalificación
+Reclassification
 [Sat May/6]
   19.10  CF Pachuca               4-4 pen. (4-4, 3-2)  Santos Laguna
   17.00  Cruz Azul                0-1 (0-1)  Atlas Guadalajara

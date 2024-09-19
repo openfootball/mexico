@@ -232,13 +232,13 @@ Matchday 15
 
 == Apertura Playoffs
 
-Qual. 1. Runde
+Play-in round 1
 [Thu Nov/9]
   19.05  Atlético Morelia         4-3 pen. (1-1, 0-0)  Venados FC
   21.05  Correcaminos UAT         0-1 (0-0)  Atlético La Paz
 
 
-Qual. 2. Runde
+Play-in round 2
 [Sun Nov/12]
   17.05  Venados FC               1-0 (1-0)  Atlético La Paz
 
@@ -507,13 +507,13 @@ Matchday 15
 
 == Clausura Playoffs
 
-Qual. 1. Runde
+Play-in round 1
 [Wed Apr/17]
   21.00  Atlético La Paz          2-3 (0-3)  Mineros de Zacatecas
   19.00  Alebrijes de Oaxaca      6-5 pen. (1-1, 0-0)  Cimarrones de Sonora
 
 
-Qual. 2. Runde
+Play-in round 2
 [Sat Apr/20]
   21.00  Atlético La Paz          3-2 (0-2)  Alebrijes de Oaxaca
 

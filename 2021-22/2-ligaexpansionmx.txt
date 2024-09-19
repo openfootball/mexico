@@ -265,7 +265,7 @@ Matchday 17
 
 == Apertura Playoffs
 
-Recalificación
+Reclassification
 [Tue Nov/23]
   20.15  Pumas Tabasco            0-1 (0-1)  Tepatitlán
   22.15  Cimarrones de Sonora     1-2 (0-1)  Venados FC
@@ -577,7 +577,7 @@ Matchday 17
 
 == Clausura Playoffs
 
-Recalificación
+Reclassification
 [Wed Apr/20]
   17.00  Mineros de Zacatecas     2-0 (1-0)  Coyotes de Tlaxcala
 [Thu Apr/21]

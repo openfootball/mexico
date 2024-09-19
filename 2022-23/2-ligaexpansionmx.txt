@@ -296,7 +296,7 @@ Matchday 17
 
 == Apertura Playoffs
 
-Recalificación
+Reclassification
 [Wed Oct/19]
   19.00  Venados FC               4-2 (4-0)  Tepatitlán
 [Thu Oct/20]
@@ -625,7 +625,7 @@ Matchday 17
 
 == Clausura Playoffs
 
-Recalificación
+Reclassification
 [Wed Apr/26]
   21.05  Cimarrones de Sonora     1-0 (0-0)  Correcaminos UAT
   19.00  CF Monterrey II          2-0 (2-0)  Alebrijes de Oaxaca
