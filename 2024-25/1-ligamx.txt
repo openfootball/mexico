@@ -140,47 +140,47 @@ Matchday 8
 
 Matchday 9
 [Fri Sep/20]
-  19.00  Atlas Guadalajara        -  Gallos Blancos
-         Puebla FC                -  CF Pachuca
+  19.00  Atlas Guadalajara        0-1 (0-1)  Gallos Blancos
+         Puebla FC                2-3 (1-2)  CF Pachuca
 [Sat Sep/21]
-  21.05  Cruz Azul                -  Deportivo Guadalajara
-  17.00  Club León                -  Atlético San Luis
-  19.00  Club Necaxa              -  CF América
-         CF Monterrey             -  Mazatlán FC
+  21.05  Cruz Azul                1-0 (0-0)  Deportivo Guadalajara
+  17.00  Club León                1-0 (0-0)  Atlético San Luis
+  19.00  Club Necaxa              1-1 (1-0)  CF América
+         CF Monterrey             0-0  Mazatlán FC
 [Sun Sep/22]
-  19.10  FC Juárez                -  UANL Tigres
-  19.05  Santos Laguna            -  Deportivo Toluca
-  17.00  Pumas UNAM               -  Club Tijuana
+  19.10  FC Juárez                0-1 (0-0)  UANL Tigres
+  19.05  Santos Laguna            2-0 (1-0)  Deportivo Toluca
+  17.00  Pumas UNAM               1-0 (0-0)  Club Tijuana
 
 
 Matchday 10
 [Fri Sep/27]
-  20.00  UANL Tigres              -  Club León
-  21.05  Club Tijuana             -  Mazatlán FC
-  19.00  Gallos Blancos           -  Club Necaxa
-  18.00  Puebla FC                -  FC Juárez
+  20.00  UANL Tigres              2-2 (1-1)  Club León
+  21.05  Club Tijuana             1-0 (1-0)  Mazatlán FC
+  19.00  Gallos Blancos           0-0  Club Necaxa
+  18.00  Puebla FC                2-3 (0-1)  FC Juárez
 [Sat Sep/28]
-  21.05  Deportivo Guadalajara    -  CF Monterrey
-  21.10  Atlético San Luis        -  Santos Laguna
-  19.05  CF Pachuca               -  Cruz Azul
-  17.00  Deportivo Toluca         -  Atlas Guadalajara
+  21.05  Deportivo Guadalajara    1-1 (1-0)  CF Monterrey
+  21.10  Atlético San Luis        3-1 (0-1)  Santos Laguna
+  19.05  CF Pachuca               2-4 (2-1)  Cruz Azul
+  17.00  Deportivo Toluca         4-1 (2-0)  Atlas Guadalajara
 [Sun Sep/29]
-  18.00  CF América               -  Pumas UNAM
+  18.00  CF América               0-1 (0-1)  Pumas UNAM
 
 
 Matchday 11
 [Fri Oct/4]
-  20.00  Mazatlán FC              -  Gallos Blancos
-  21.00  Club Tijuana             -  CF Pachuca
+  20.00  Mazatlán FC              2-2 (2-1)  Gallos Blancos
+  21.00  Club Tijuana             2-1 (0-0)  CF Pachuca
 [Sat Oct/5]
-  19.05  Deportivo Guadalajara    -  Atlas Guadalajara
-  21.05  Deportivo Toluca         -  Pumas UNAM
-  17.00  UANL Tigres              -  Puebla FC
-  19.00  Club León                -  CF América
-  17.00  Atlético San Luis        -  CF Monterrey
+  19.00  Deportivo Toluca         1-1 (1-1)  Pumas UNAM
+  19.05  Deportivo Guadalajara    2-3 (0-1)  Atlas Guadalajara
+  21.00  Club León                1-1 (1-0)  CF América
+  17.00  Cruz Azul                3-0 (2-0)  Club Necaxa
+         UANL Tigres              1-0 (1-0)  Puebla FC
+         Atlético San Luis        1-0 (1-0)  CF Monterrey
 [Sun Oct/6]
-  18.00  Cruz Azul                -  Club Necaxa
-  20.05  Santos Laguna            -  FC Juárez
+  20.05  Santos Laguna            0-2 (0-0)  FC Juárez
 
 
 Matchday 12
@@ -200,8 +200,8 @@ Matchday 12
 
 Matchday 13
 [Tue Oct/22]
+  19.05  Deportivo Guadalajara    -  Club Necaxa
   19.00  Santos Laguna            -  CF Pachuca
-         Deportivo Guadalajara    -  Club Necaxa
   21.05  Deportivo Toluca         -  Puebla FC
   21.00  Mazatlán FC              -  UANL Tigres
 [Wed Oct/23]
